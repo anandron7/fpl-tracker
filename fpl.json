@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-29T03:18:16.719278+00:00",
+  "updated_at_utc": "2026-08-29T06:18:15.371449+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 69,
-    "rank": 4330010,
+    "rank": 4330003,
     "event_points": 13,
-    "event_rank": 6063530
+    "event_rank": 6063517
   },
   "gameweek": {
     "current": 2,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 2,
       "form": "1.0",
-      "selected_by_percent": "22.6"
+      "selected_by_percent": "22.5"
     },
     {
       "player_id": 8,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 2,
       "form": "1.0",
-      "selected_by_percent": "47.5"
+      "selected_by_percent": "47.4"
     },
     {
       "player_id": 368,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "28.3"
+      "selected_by_percent": "28.2"
     },
     {
       "player_id": 411,
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 594728,
+      "entry_rank": 594733,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 4330010,
+      "entry_rank": 4330003,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 4330010,
+      "entry_rank": 4330003,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -408,19 +408,19 @@
         },
         {
           "rank": 6,
-          "entry": 379845,
-          "entry_name": "Noni To GyokerEze",
-          "player_name": "Karthik MG",
-          "event_total": 31,
+          "entry": 3540502,
+          "entry_name": "Until GW6 11",
+          "player_name": "Archit Ramprasad",
+          "event_total": 36,
           "total": 88,
           "is_you": false
         },
         {
           "rank": 6,
-          "entry": 3540502,
-          "entry_name": "Until GW6 11",
-          "player_name": "Archit Ramprasad",
-          "event_total": 36,
+          "entry": 379845,
+          "entry_name": "Noni To GyokerEze",
+          "player_name": "Karthik MG",
+          "event_total": 31,
           "total": 88,
           "is_you": false
         },
@@ -552,18 +552,18 @@
         },
         {
           "rank": 22,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
+          "entry": 7073267,
+          "entry_name": "Lyf gave me Lammens಄",
+          "player_name": "Adharsh Nair",
           "event_total": 13,
           "total": 56,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 7073267,
-          "entry_name": "Lyf gave me Lammens಄",
-          "player_name": "Adharsh Nair",
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
           "event_total": 13,
           "total": 56,
           "is_you": false
