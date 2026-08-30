@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-30T15:18:36.246960+00:00",
+  "updated_at_utc": "2026-08-30T18:18:24.303493+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -7,10 +7,10 @@
     "last_name": "VR"
   },
   "overall": {
-    "points": 92,
-    "rank": 4911904,
-    "event_points": 36,
-    "event_rank": 7285902
+    "points": 151,
+    "rank": 693901,
+    "event_points": 95,
+    "event_rank": 702594
   },
   "gameweek": {
     "current": 2,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "22.0"
+      "selected_by_percent": "21.8"
     },
     {
       "player_id": 8,
@@ -78,9 +78,9 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 1,
-      "form": "0.5",
-      "selected_by_percent": "19.0"
+      "season_points": 3,
+      "form": "1.5",
+      "selected_by_percent": "18.7"
     },
     {
       "player_id": 329,
@@ -92,9 +92,9 @@
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "a",
-      "news": "",
-      "chance_of_playing_next_round": null,
+      "status": "d",
+      "news": "Hamstring injury - 50% chance of playing",
+      "chance_of_playing_next_round": 50,
       "season_points": 7,
       "form": "3.5",
       "selected_by_percent": "3.5"
@@ -112,9 +112,9 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 2,
-      "form": "1.0",
-      "selected_by_percent": "46.3"
+      "season_points": 25,
+      "form": "12.5",
+      "selected_by_percent": "46.8"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "43.0"
+      "selected_by_percent": "42.7"
     },
     {
       "player_id": 427,
@@ -146,9 +146,9 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 2,
-      "form": "1.0",
-      "selected_by_percent": "33.8"
+      "season_points": 13,
+      "form": "6.5",
+      "selected_by_percent": "33.1"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "25.9"
+      "selected_by_percent": "25.8"
     },
     {
       "player_id": 346,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "69.0"
+      "selected_by_percent": "69.2"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "68.8"
+      "selected_by_percent": "69.0"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "9.8"
+      "selected_by_percent": "10.1"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "5.4"
+      "selected_by_percent": "5.3"
     },
     {
       "player_id": 539,
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 662041,
+      "entry_rank": 158332,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -333,7 +333,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 180268,
+      "entry_rank": 26128,
       "entry_last_rank": 92807,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 4911432,
+      "entry_rank": 693900,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 4911904,
+      "entry_rank": 693901,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -357,233 +357,233 @@
     {
       "id": 384890,
       "name": "SSN Fantasy Football",
-      "entry_rank": 21,
+      "entry_rank": 6,
       "entry_last_rank": 14,
       "league_type": "x",
       "standings": [
         {
           "rank": 1,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 62,
-          "total": 128,
-          "is_you": false
-        },
-        {
-          "rank": 2,
-          "entry": 330520,
-          "entry_name": "Arsenal_kr",
-          "player_name": "kr goutham",
-          "event_total": 61,
-          "total": 127,
-          "is_you": false
-        },
-        {
-          "rank": 2,
           "entry": 2284167,
           "entry_name": "Appatakkar FC",
           "player_name": "Gopalakrishnan Shanker",
-          "event_total": 41,
-          "total": 127,
+          "event_total": 100,
+          "total": 186,
+          "is_you": false
+        },
+        {
+          "rank": 2,
+          "entry": 1346361,
+          "entry_name": "Polarising Pipsqueak",
+          "player_name": "Aravind Gopalakrishnan",
+          "event_total": 91,
+          "total": 172,
+          "is_you": false
+        },
+        {
+          "rank": 3,
+          "entry": 1211311,
+          "entry_name": "No Salah",
+          "player_name": "Ankur Khemani",
+          "event_total": 86,
+          "total": 160,
           "is_you": false
         },
         {
           "rank": 4,
-          "entry": 5179293,
-          "entry_name": "DJ20 YNWA",
-          "player_name": "gowthamram Manohar",
-          "event_total": 56,
-          "total": 123,
+          "entry": 1418774,
+          "entry_name": "It's called Saka",
+          "player_name": "Praveen Narayanan",
+          "event_total": 105,
+          "total": 157,
           "is_you": false
         },
         {
           "rank": 5,
-          "entry": 19718,
-          "entry_name": "Redstuds",
-          "player_name": "Harish Reddy",
-          "event_total": 53,
-          "total": 115,
+          "entry": 2524198,
+          "entry_name": "citizen",
+          "player_name": "srinath tm",
+          "event_total": 95,
+          "total": 155,
           "is_you": false
         },
         {
           "rank": 6,
-          "entry": 995057,
-          "entry_name": "Project Haal Mary",
-          "player_name": "Vignesh Ramachandran",
-          "event_total": 60,
-          "total": 115,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 95,
+          "total": 151,
+          "is_you": true
+        },
+        {
+          "rank": 7,
+          "entry": 3298282,
+          "entry_name": "Arcanis FC",
+          "player_name": "Arjun Gopalakrishnan",
+          "event_total": 77,
+          "total": 149,
           "is_you": false
         },
         {
           "rank": 7,
-          "entry": 3540502,
-          "entry_name": "Until GW6 11",
-          "player_name": "Archit Ramprasad",
-          "event_total": 62,
-          "total": 114,
-          "is_you": false
-        },
-        {
-          "rank": 8,
-          "entry": 1346361,
-          "entry_name": "Polarising Pipsqueak",
-          "player_name": "Aravind Gopalakrishnan",
-          "event_total": 32,
-          "total": 113,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 106,
+          "total": 149,
           "is_you": false
         },
         {
           "rank": 9,
-          "entry": 8491589,
-          "entry_name": "How Dalot can you go",
-          "player_name": "muthu elango",
-          "event_total": 56,
-          "total": 109,
+          "entry": 7073267,
+          "entry_name": "Lyf gave me Lammens಄",
+          "player_name": "Adharsh Nair",
+          "event_total": 104,
+          "total": 147,
           "is_you": false
         },
         {
-          "rank": 9,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 50,
-          "total": 109,
-          "is_you": false
-        },
-        {
-          "rank": 11,
-          "entry": 2524198,
-          "entry_name": "citizen",
-          "player_name": "srinath tm",
-          "event_total": 49,
-          "total": 109,
+          "rank": 10,
+          "entry": 1665238,
+          "entry_name": "Voetbal",
+          "player_name": "Akshay Ramachandran",
+          "event_total": 98,
+          "total": 146,
           "is_you": false
         },
         {
           "rank": 11,
-          "entry": 4309681,
-          "entry_name": "Banter FC",
-          "player_name": "Manoj Krishnan",
-          "event_total": 49,
-          "total": 109,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 90,
+          "total": 138,
+          "is_you": false
+        },
+        {
+          "rank": 11,
+          "entry": 5179293,
+          "entry_name": "DJ20 YNWA",
+          "player_name": "gowthamram Manohar",
+          "event_total": 71,
+          "total": 138,
           "is_you": false
         },
         {
           "rank": 13,
-          "entry": 379845,
-          "entry_name": "Noni To GyokerEze",
-          "player_name": "Karthik MG",
-          "event_total": 50,
-          "total": 107,
+          "entry": 330520,
+          "entry_name": "Arsenal_kr",
+          "player_name": "kr goutham",
+          "event_total": 72,
+          "total": 138,
           "is_you": false
         },
         {
           "rank": 14,
-          "entry": 5097053,
-          "entry_name": "The Sage Returns",
-          "player_name": "Teja Kethineni",
-          "event_total": 56,
-          "total": 104,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 71,
+          "total": 137,
           "is_you": false
         },
         {
           "rank": 15,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 48,
-          "total": 102,
+          "entry": 8491589,
+          "entry_name": "How Dalot can you go",
+          "player_name": "muthu elango",
+          "event_total": 79,
+          "total": 132,
           "is_you": false
         },
         {
           "rank": 16,
-          "entry": 7744618,
-          "entry_name": "Wengerball 2.0",
-          "player_name": "Nitin Natrajan",
-          "event_total": 43,
-          "total": 101,
+          "entry": 19718,
+          "entry_name": "Redstuds",
+          "player_name": "Harish Reddy",
+          "event_total": 68,
+          "total": 130,
           "is_you": false
         },
         {
           "rank": 17,
-          "entry": 1211311,
-          "entry_name": "No Salah",
-          "player_name": "Ankur Khemani",
-          "event_total": 25,
-          "total": 99,
+          "entry": 379845,
+          "entry_name": "Noni To GyokerEze",
+          "player_name": "Karthik MG",
+          "event_total": 70,
+          "total": 127,
           "is_you": false
         },
         {
           "rank": 18,
-          "entry": 3298282,
-          "entry_name": "Arcanis FC",
-          "player_name": "Arjun Gopalakrishnan",
-          "event_total": 25,
-          "total": 97,
+          "entry": 889522,
+          "entry_name": "Bwoah",
+          "player_name": "Shreyas Padmanabhan",
+          "event_total": 84,
+          "total": 127,
           "is_you": false
         },
         {
           "rank": 19,
-          "entry": 1418774,
-          "entry_name": "It's called Saka",
-          "player_name": "Praveen Narayanan",
-          "event_total": 44,
-          "total": 96,
+          "entry": 995057,
+          "entry_name": "Project Haal Mary",
+          "player_name": "Vignesh Ramachandran",
+          "event_total": 71,
+          "total": 126,
           "is_you": false
         },
         {
           "rank": 20,
-          "entry": 1665238,
-          "entry_name": "Voetbal",
-          "player_name": "Akshay Ramachandran",
-          "event_total": 48,
-          "total": 96,
+          "entry": 3540502,
+          "entry_name": "Until GW6 11",
+          "player_name": "Archit Ramprasad",
+          "event_total": 73,
+          "total": 125,
           "is_you": false
         },
         {
           "rank": 21,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 36,
-          "total": 92,
-          "is_you": true
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 65,
+          "total": 124,
+          "is_you": false
         },
         {
           "rank": 22,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 47,
-          "total": 90,
+          "entry": 4309681,
+          "entry_name": "Banter FC",
+          "player_name": "Manoj Krishnan",
+          "event_total": 60,
+          "total": 120,
           "is_you": false
         },
         {
           "rank": 23,
-          "entry": 7073267,
-          "entry_name": "Lyf gave me Lammens಄",
-          "player_name": "Adharsh Nair",
-          "event_total": 43,
-          "total": 86,
+          "entry": 5097053,
+          "entry_name": "The Sage Returns",
+          "player_name": "Teja Kethineni",
+          "event_total": 69,
+          "total": 117,
           "is_you": false
         },
         {
           "rank": 24,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 31,
-          "total": 79,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 61,
+          "total": 115,
           "is_you": false
         },
         {
           "rank": 25,
-          "entry": 889522,
-          "entry_name": "Bwoah",
-          "player_name": "Shreyas Padmanabhan",
-          "event_total": 34,
-          "total": 77,
+          "entry": 7744618,
+          "entry_name": "Wengerball 2.0",
+          "player_name": "Nitin Natrajan",
+          "event_total": 52,
+          "total": 110,
           "is_you": false
         }
       ]
@@ -591,7 +591,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 180791,
+      "entry_rank": 26219,
       "entry_last_rank": 93068,
       "league_type": "s",
       "standings": null
@@ -599,125 +599,125 @@
     {
       "id": 1388953,
       "name": "Sounders Sangam",
-      "entry_rank": 11,
+      "entry_rank": 4,
       "entry_last_rank": 6,
       "league_type": "x",
       "standings": [
         {
           "rank": 1,
-          "entry": 7665044,
-          "entry_name": "deft_SAF_SF",
-          "player_name": "Vignesh Purushothaman",
-          "event_total": 68,
-          "total": 131,
+          "entry": 5571754,
+          "entry_name": "LORDBSR XI",
+          "player_name": "Bhargav Sundararajan",
+          "event_total": 106,
+          "total": 160,
           "is_you": false
         },
         {
           "rank": 2,
+          "entry": 679012,
+          "entry_name": "deft_SAF",
+          "player_name": "vignesh dasari",
+          "event_total": 97,
+          "total": 158,
+          "is_you": false
+        },
+        {
+          "rank": 3,
+          "entry": 7665044,
+          "entry_name": "deft_SAF_SF",
+          "player_name": "Vignesh Purushothaman",
+          "event_total": 91,
+          "total": 154,
+          "is_you": false
+        },
+        {
+          "rank": 4,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 95,
+          "total": 151,
+          "is_you": true
+        },
+        {
+          "rank": 5,
           "entry": 689579,
           "entry_name": "Top4 FC",
           "player_name": "Ashwin Kalyana Kumar",
+          "event_total": 82,
+          "total": 141,
+          "is_you": false
+        },
+        {
+          "rank": 6,
+          "entry": 5891192,
+          "entry_name": "Cityzen",
+          "player_name": "Vishwas Nalka",
+          "event_total": 91,
+          "total": 140,
+          "is_you": false
+        },
+        {
+          "rank": 7,
+          "entry": 1577938,
+          "entry_name": "Bale Puri",
+          "player_name": "Aayush Dewan",
+          "event_total": 84,
+          "total": 134,
+          "is_you": false
+        },
+        {
+          "rank": 8,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
           "event_total": 65,
           "total": 124,
           "is_you": false
         },
         {
-          "rank": 3,
-          "entry": 5571754,
-          "entry_name": "LORDBSR XI",
-          "player_name": "Bhargav Sundararajan",
-          "event_total": 68,
-          "total": 122,
-          "is_you": false
-        },
-        {
-          "rank": 4,
-          "entry": 5891192,
-          "entry_name": "Cityzen",
-          "player_name": "Vishwas Nalka",
-          "event_total": 66,
-          "total": 115,
-          "is_you": false
-        },
-        {
-          "rank": 5,
-          "entry": 676671,
-          "entry_name": "The Special One",
-          "player_name": "Arun Prakash",
-          "event_total": 67,
-          "total": 110,
-          "is_you": false
-        },
-        {
-          "rank": 6,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 50,
-          "total": 109,
-          "is_you": false
-        },
-        {
-          "rank": 7,
+          "rank": 9,
           "entry": 1287879,
           "entry_name": "Bengalingham",
           "player_name": "Nandini Ghosh",
-          "event_total": 53,
-          "total": 106,
-          "is_you": false
-        },
-        {
-          "rank": 8,
-          "entry": 7522694,
-          "entry_name": "Pending Moderation",
-          "player_name": "Akuka Belluci",
-          "event_total": 42,
-          "total": 102,
+          "event_total": 68,
+          "total": 121,
           "is_you": false
         },
         {
           "rank": 9,
-          "entry": 1577938,
-          "entry_name": "Bale Puri",
-          "player_name": "Aayush Dewan",
-          "event_total": 50,
-          "total": 100,
-          "is_you": false
-        },
-        {
-          "rank": 10,
-          "entry": 679012,
-          "entry_name": "deft_SAF",
-          "player_name": "vignesh dasari",
-          "event_total": 36,
-          "total": 97,
+          "entry": 676671,
+          "entry_name": "The Special One",
+          "player_name": "Arun Prakash",
+          "event_total": 78,
+          "total": 121,
           "is_you": false
         },
         {
           "rank": 11,
+          "entry": 7522694,
+          "entry_name": "Pending Moderation",
+          "player_name": "Akuka Belluci",
+          "event_total": 53,
+          "total": 113,
+          "is_you": false
+        },
+        {
+          "rank": 12,
           "entry": 1813159,
           "entry_name": "Manda Bathram",
           "player_name": "Vishwas N",
-          "event_total": 58,
-          "total": 92,
+          "event_total": 69,
+          "total": 103,
           "is_you": false
-        },
-        {
-          "rank": 11,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 36,
-          "total": 92,
-          "is_you": true
         },
         {
           "rank": 13,
           "entry": 9913278,
           "entry_name": "Nachi",
           "player_name": "Nachiappan Karuppiah",
-          "event_total": 43,
-          "total": 43,
+          "event_total": 44,
+          "total": 44,
           "is_you": false
         }
       ]
