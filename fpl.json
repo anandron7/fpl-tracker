@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-30T18:18:24.303493+00:00",
+  "updated_at_utc": "2026-08-30T21:18:16.696646+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,26 +8,26 @@
   },
   "overall": {
     "points": 151,
-    "rank": 693901,
+    "rank": 706547,
     "event_points": 95,
-    "event_rank": 702594
+    "event_rank": 719378
   },
   "gameweek": {
     "current": 2,
     "entry_history": {
       "event": 2,
-      "points": 18,
-      "total_points": 74,
-      "rank": 7585974,
-      "rank_sort": 7666400,
-      "overall_rank": 5328034,
-      "percentile_rank": 80,
-      "overall_rank_percentage": "54",
+      "points": 95,
+      "total_points": 151,
+      "rank": 702595,
+      "rank_sort": 722493,
+      "overall_rank": 693900,
+      "percentile_rank": 10,
+      "overall_rank_percentage": "7",
       "bank": 0,
       "value": 1003,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 4
     }
   },
   "squad": [
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "21.8"
+      "selected_by_percent": "21.6"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "4.5",
-      "selected_by_percent": "41.7"
+      "selected_by_percent": "41.6"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "18.7"
+      "selected_by_percent": "18.5"
     },
     {
       "player_id": 329,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 50,
       "season_points": 7,
       "form": "3.5",
-      "selected_by_percent": "3.5"
+      "selected_by_percent": "3.4"
     },
     {
       "player_id": 426,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "12.5",
-      "selected_by_percent": "46.8"
+      "selected_by_percent": "47.1"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "42.7"
+      "selected_by_percent": "42.6"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "33.1"
+      "selected_by_percent": "32.9"
     },
     {
       "player_id": 557,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "4.5",
-      "selected_by_percent": "27.5"
+      "selected_by_percent": "27.4"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "69.2"
+      "selected_by_percent": "69.3"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.0"
+      "selected_by_percent": "69.1"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "10.1"
+      "selected_by_percent": "10.2"
     },
     {
       "player_id": 204,
@@ -306,18 +306,18 @@
     },
     {
       "event": 2,
-      "points": 18,
-      "total_points": 74,
-      "rank": 7585974,
-      "rank_sort": 7666400,
-      "overall_rank": 5328034,
-      "percentile_rank": 80,
-      "overall_rank_percentage": "54",
+      "points": 95,
+      "total_points": 151,
+      "rank": 702595,
+      "rank_sort": 722493,
+      "overall_rank": 693900,
+      "percentile_rank": 10,
+      "overall_rank_percentage": "7",
       "bank": 0,
       "value": 1003,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 4
     }
   ],
   "transfers": [],
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 158332,
+      "entry_rank": 161017,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -333,7 +333,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 26128,
+      "entry_rank": 26633,
       "entry_last_rank": 92807,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 693900,
+      "entry_rank": 706546,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 693901,
+      "entry_rank": 706547,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -453,19 +453,19 @@
         },
         {
           "rank": 11,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 90,
+          "entry": 5179293,
+          "entry_name": "DJ20 YNWA",
+          "player_name": "gowthamram Manohar",
+          "event_total": 71,
           "total": 138,
           "is_you": false
         },
         {
           "rank": 11,
-          "entry": 5179293,
-          "entry_name": "DJ20 YNWA",
-          "player_name": "gowthamram Manohar",
-          "event_total": 71,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 90,
           "total": 138,
           "is_you": false
         },
@@ -591,7 +591,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 26219,
+      "entry_rank": 26725,
       "entry_last_rank": 93068,
       "league_type": "s",
       "standings": null
