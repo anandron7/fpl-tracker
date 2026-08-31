@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-31T12:18:13.506761+00:00",
+  "updated_at_utc": "2026-08-31T15:18:16.147879+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 151,
-    "rank": 706544,
+    "rank": 706542,
     "event_points": 95,
-    "event_rank": 719372
+    "event_rank": 719370
   },
   "gameweek": {
     "current": 2,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "21.4"
+      "selected_by_percent": "21.3"
     },
     {
       "player_id": 8,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "12.5",
-      "selected_by_percent": "47.6"
+      "selected_by_percent": "47.7"
     },
     {
       "player_id": 368,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "32.3"
+      "selected_by_percent": "32.2"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "25.6"
+      "selected_by_percent": "25.5"
     },
     {
       "player_id": 346,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "69.5"
+      "selected_by_percent": "69.6"
     },
     {
       "player_id": 165,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "10.6"
+      "selected_by_percent": "10.7"
     },
     {
       "player_id": 204,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "3.3"
+      "selected_by_percent": "3.2"
     }
   ],
   "chips": [],
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 161031,
+      "entry_rank": 161038,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 706543,
+      "entry_rank": 706541,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 706544,
+      "entry_rank": 706542,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -417,19 +417,19 @@
         },
         {
           "rank": 7,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 106,
+          "entry": 3298282,
+          "entry_name": "Arcanis FC",
+          "player_name": "Arjun Gopalakrishnan",
+          "event_total": 77,
           "total": 149,
           "is_you": false
         },
         {
           "rank": 7,
-          "entry": 3298282,
-          "entry_name": "Arcanis FC",
-          "player_name": "Arjun Gopalakrishnan",
-          "event_total": 77,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 106,
           "total": 149,
           "is_you": false
         },
@@ -453,19 +453,19 @@
         },
         {
           "rank": 11,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 90,
+          "entry": 5179293,
+          "entry_name": "DJ20 YNWA",
+          "player_name": "gowthamram Manohar",
+          "event_total": 71,
           "total": 138,
           "is_you": false
         },
         {
           "rank": 11,
-          "entry": 5179293,
-          "entry_name": "DJ20 YNWA",
-          "player_name": "gowthamram Manohar",
-          "event_total": 71,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 90,
           "total": 138,
           "is_you": false
         },
