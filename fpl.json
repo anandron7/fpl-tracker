@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-31T03:18:10.747925+00:00",
+  "updated_at_utc": "2026-08-31T06:18:17.755441+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 151,
-    "rank": 706547,
+    "rank": 706548,
     "event_points": 95,
     "event_rank": 719376
   },
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "12.5",
-      "selected_by_percent": "47.3"
+      "selected_by_percent": "47.4"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "42.5"
+      "selected_by_percent": "42.4"
     },
     {
       "player_id": 427,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.2"
+      "selected_by_percent": "69.3"
     },
     {
       "player_id": 109,
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 161019,
+      "entry_rank": 161020,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 706546,
+      "entry_rank": 706547,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 706547,
+      "entry_rank": 706548,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -417,19 +417,19 @@
         },
         {
           "rank": 7,
-          "entry": 3298282,
-          "entry_name": "Arcanis FC",
-          "player_name": "Arjun Gopalakrishnan",
-          "event_total": 77,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 106,
           "total": 149,
           "is_you": false
         },
         {
           "rank": 7,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 106,
+          "entry": 3298282,
+          "entry_name": "Arcanis FC",
+          "player_name": "Arjun Gopalakrishnan",
+          "event_total": 77,
           "total": 149,
           "is_you": false
         },
@@ -677,19 +677,19 @@
         },
         {
           "rank": 9,
-          "entry": 1287879,
-          "entry_name": "Bengalingham",
-          "player_name": "Nandini Ghosh",
-          "event_total": 68,
+          "entry": 676671,
+          "entry_name": "The Special One",
+          "player_name": "Arun Prakash",
+          "event_total": 78,
           "total": 121,
           "is_you": false
         },
         {
           "rank": 9,
-          "entry": 676671,
-          "entry_name": "The Special One",
-          "player_name": "Arun Prakash",
-          "event_total": 78,
+          "entry": 1287879,
+          "entry_name": "Bengalingham",
+          "player_name": "Nandini Ghosh",
+          "event_total": 68,
           "total": 121,
           "is_you": false
         },
