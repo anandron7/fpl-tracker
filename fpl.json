@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-31T15:18:16.147879+00:00",
+  "updated_at_utc": "2026-08-31T18:18:30.046147+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 151,
-    "rank": 706542,
+    "rank": 706543,
     "event_points": 95,
     "event_rank": 719370
   },
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "18.2"
+      "selected_by_percent": "18.1"
     },
     {
       "player_id": 329,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "42.3"
+      "selected_by_percent": "42.2"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "32.2"
+      "selected_by_percent": "32.1"
     },
     {
       "player_id": 557,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "4.5",
-      "selected_by_percent": "27.3"
+      "selected_by_percent": "27.2"
     },
     {
       "player_id": 411,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "10.7"
+      "selected_by_percent": "10.8"
     },
     {
       "player_id": 204,
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 161038,
+      "entry_rank": 161041,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 706541,
+      "entry_rank": 706542,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 706542,
+      "entry_rank": 706543,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
