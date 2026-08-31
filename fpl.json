@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-31T00:18:10.895590+00:00",
+  "updated_at_utc": "2026-08-31T03:18:10.747925+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 151,
-    "rank": 706546,
+    "rank": 706547,
     "event_points": 95,
-    "event_rank": 719378
+    "event_rank": 719376
   },
   "gameweek": {
     "current": 2,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "21.6"
+      "selected_by_percent": "21.5"
     },
     {
       "player_id": 8,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "18.5"
+      "selected_by_percent": "18.4"
     },
     {
       "player_id": 329,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "32.7"
+      "selected_by_percent": "32.6"
     },
     {
       "player_id": 557,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "10.3"
+      "selected_by_percent": "10.4"
     },
     {
       "player_id": 204,
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 706545,
+      "entry_rank": 706546,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 706546,
+      "entry_rank": 706547,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -417,19 +417,19 @@
         },
         {
           "rank": 7,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 106,
+          "entry": 3298282,
+          "entry_name": "Arcanis FC",
+          "player_name": "Arjun Gopalakrishnan",
+          "event_total": 77,
           "total": 149,
           "is_you": false
         },
         {
           "rank": 7,
-          "entry": 3298282,
-          "entry_name": "Arcanis FC",
-          "player_name": "Arjun Gopalakrishnan",
-          "event_total": 77,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 106,
           "total": 149,
           "is_you": false
         },
