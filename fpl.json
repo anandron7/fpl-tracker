@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-08-31T21:18:21.300751+00:00",
+  "updated_at_utc": "2026-09-01T00:35:16.734499+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,21 +8,21 @@
   },
   "overall": {
     "points": 162,
-    "rank": 880515,
+    "rank": 884397,
     "event_points": 106,
-    "event_rank": 887382
+    "event_rank": 894008
   },
   "gameweek": {
     "current": 2,
     "entry_history": {
       "event": 2,
-      "points": 95,
-      "total_points": 151,
-      "rank": 702595,
-      "rank_sort": 722493,
-      "overall_rank": 693900,
+      "points": 106,
+      "total_points": 162,
+      "rank": 887382,
+      "rank_sort": 908880,
+      "overall_rank": 880516,
       "percentile_rank": 10,
-      "overall_rank_percentage": "7",
+      "overall_rank_percentage": "9",
       "bank": 0,
       "value": 1003,
       "event_transfers": 0,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "21.2"
+      "selected_by_percent": "21.0"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "41.7"
+      "selected_by_percent": "42.1"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "18.0"
+      "selected_by_percent": "17.8"
     },
     {
       "player_id": 329,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "12.5",
-      "selected_by_percent": "47.9"
+      "selected_by_percent": "48.0"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "42.2"
+      "selected_by_percent": "42.1"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "31.9"
+      "selected_by_percent": "31.6"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "25.0"
+      "selected_by_percent": "24.4"
     },
     {
       "player_id": 346,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "4.5",
-      "selected_by_percent": "27.2"
+      "selected_by_percent": "27.1"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "69.7"
+      "selected_by_percent": "69.9"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.5"
+      "selected_by_percent": "69.6"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "11.0"
+      "selected_by_percent": "11.3"
     },
     {
       "player_id": 204,
@@ -306,13 +306,13 @@
     },
     {
       "event": 2,
-      "points": 95,
-      "total_points": 151,
-      "rank": 702595,
-      "rank_sort": 722493,
-      "overall_rank": 693900,
+      "points": 106,
+      "total_points": 162,
+      "rank": 887382,
+      "rank_sort": 908880,
+      "overall_rank": 880516,
       "percentile_rank": 10,
-      "overall_rank_percentage": "7",
+      "overall_rank_percentage": "9",
       "bank": 0,
       "value": 1003,
       "event_transfers": 0,
@@ -325,7 +325,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 194950,
+      "entry_rank": 195841,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -333,7 +333,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 31507,
+      "entry_rank": 31618,
       "entry_last_rank": 92807,
       "league_type": "s",
       "standings": null
@@ -341,7 +341,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 880515,
+      "entry_rank": 884397,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +349,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 880515,
+      "entry_rank": 884397,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -489,19 +489,19 @@
         },
         {
           "rank": 14,
-          "entry": 8491589,
-          "entry_name": "How Dalot can you go",
-          "player_name": "muthu elango",
-          "event_total": 93,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 98,
           "total": 146,
           "is_you": false
         },
         {
           "rank": 14,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 98,
+          "entry": 8491589,
+          "entry_name": "How Dalot can you go",
+          "player_name": "muthu elango",
+          "event_total": 93,
           "total": 146,
           "is_you": false
         },
@@ -591,7 +591,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 31607,
+      "entry_rank": 31718,
       "entry_last_rank": 93068,
       "league_type": "s",
       "standings": null
@@ -623,21 +623,21 @@
         },
         {
           "rank": 3,
-          "entry": 7665044,
-          "entry_name": "deft_SAF_SF",
-          "player_name": "Vignesh Purushothaman",
-          "event_total": 99,
-          "total": 162,
-          "is_you": false
-        },
-        {
-          "rank": 3,
           "entry": 2521217,
           "entry_name": "15 and the Mahomies",
           "player_name": "Anand VR",
           "event_total": 106,
           "total": 162,
           "is_you": true
+        },
+        {
+          "rank": 3,
+          "entry": 7665044,
+          "entry_name": "deft_SAF_SF",
+          "player_name": "Vignesh Purushothaman",
+          "event_total": 99,
+          "total": 162,
+          "is_you": false
         },
         {
           "rank": 5,
@@ -707,8 +707,8 @@
           "entry": 1813159,
           "entry_name": "Manda Bathram",
           "player_name": "Vishwas N",
-          "event_total": 72,
-          "total": 106,
+          "event_total": 74,
+          "total": 108,
           "is_you": false
         },
         {
