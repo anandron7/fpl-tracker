@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-01T18:27:50.321553+00:00",
+  "updated_at_utc": "2026-09-01T21:23:12.218758+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "20.6"
+      "selected_by_percent": "20.5"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "43.0"
+      "selected_by_percent": "43.1"
     },
     {
       "player_id": 423,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 50,
       "season_points": 7,
       "form": "3.5",
-      "selected_by_percent": "3.1"
+      "selected_by_percent": "3.0"
     },
     {
       "player_id": 426,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "41.8"
+      "selected_by_percent": "41.7"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "30.8"
+      "selected_by_percent": "30.7"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "23.1"
+      "selected_by_percent": "22.9"
     },
     {
       "player_id": 346,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "70.3"
+      "selected_by_percent": "70.4"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.8"
+      "selected_by_percent": "69.9"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "12.2"
+      "selected_by_percent": "12.4"
     },
     {
       "player_id": 204,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "3.2"
+      "selected_by_percent": "3.1"
     }
   ],
   "chips": [],
