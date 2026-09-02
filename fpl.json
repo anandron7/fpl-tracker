@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-01T21:23:12.218758+00:00",
+  "updated_at_utc": "2026-09-02T00:32:49.683625+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "43.1"
+      "selected_by_percent": "43.2"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "17.3"
+      "selected_by_percent": "17.2"
     },
     {
       "player_id": 329,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "30.7"
+      "selected_by_percent": "30.6"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "22.9"
+      "selected_by_percent": "22.8"
     },
     {
       "player_id": 346,
@@ -199,14 +199,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "70.4"
+      "selected_by_percent": "70.5"
     },
     {
       "player_id": 165,
       "name": "João Pedro",
       "club": "CHE",
       "position": "FWD",
-      "price": 7.6,
+      "price": 7.7,
       "squad_position": 11,
       "captain": false,
       "vice_captain": false,
@@ -240,7 +240,7 @@
       "name": "M.Sangaré",
       "club": "BRE",
       "position": "MID",
-      "price": 5.6,
+      "price": 5.7,
       "squad_position": 13,
       "captain": false,
       "vice_captain": false,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "12.4"
+      "selected_by_percent": "12.5"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "5.0"
+      "selected_by_percent": "4.9"
     },
     {
       "player_id": 539,
