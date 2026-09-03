@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-03T18:27:41.908084+00:00",
+  "updated_at_utc": "2026-09-03T21:23:02.398704+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "19.8"
+      "selected_by_percent": "19.7"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "43.9"
+      "selected_by_percent": "44.0"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "16.4"
+      "selected_by_percent": "16.3"
     },
     {
       "player_id": 329,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 7,
       "form": "3.5",
-      "selected_by_percent": "2.8"
+      "selected_by_percent": "2.7"
     },
     {
       "player_id": 426,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 12,
       "form": "6.0",
-      "selected_by_percent": "41.4"
+      "selected_by_percent": "41.3"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "29.1"
+      "selected_by_percent": "28.8"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "21.1"
+      "selected_by_percent": "20.8"
     },
     {
       "player_id": 346,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "4.5",
-      "selected_by_percent": "26.2"
+      "selected_by_percent": "26.1"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "71.2"
+      "selected_by_percent": "71.4"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.7"
+      "selected_by_percent": "69.6"
     },
     {
       "player_id": 109,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "21.6"
+      "selected_by_percent": "21.7"
     },
     {
       "player_id": 565,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "13.8"
+      "selected_by_percent": "14.0"
     },
     {
       "player_id": 204,
@@ -480,19 +480,19 @@
         },
         {
           "rank": 14,
-          "entry": 3540502,
-          "entry_name": "Until GW6 11",
-          "player_name": "Archit Ramprasad",
-          "event_total": 94,
+          "entry": 8491589,
+          "entry_name": "How Dalot can you go",
+          "player_name": "muthu elango",
+          "event_total": 93,
           "total": 146,
           "is_you": false
         },
         {
           "rank": 14,
-          "entry": 8491589,
-          "entry_name": "How Dalot can you go",
-          "player_name": "muthu elango",
-          "event_total": 93,
+          "entry": 3540502,
+          "entry_name": "Until GW6 11",
+          "player_name": "Archit Ramprasad",
+          "event_total": 94,
           "total": 146,
           "is_you": false
         },
@@ -516,19 +516,19 @@
         },
         {
           "rank": 18,
-          "entry": 19718,
-          "entry_name": "Redstuds",
-          "player_name": "Harish Reddy",
-          "event_total": 76,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 79,
           "total": 138,
           "is_you": false
         },
         {
           "rank": 18,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 79,
+          "entry": 19718,
+          "entry_name": "Redstuds",
+          "player_name": "Harish Reddy",
+          "event_total": 76,
           "total": 138,
           "is_you": false
         },
@@ -623,21 +623,21 @@
         },
         {
           "rank": 3,
-          "entry": 7665044,
-          "entry_name": "deft_SAF_SF",
-          "player_name": "Vignesh Purushothaman",
-          "event_total": 99,
-          "total": 162,
-          "is_you": false
-        },
-        {
-          "rank": 3,
           "entry": 2521217,
           "entry_name": "15 and the Mahomies",
           "player_name": "Anand VR",
           "event_total": 106,
           "total": 162,
           "is_you": true
+        },
+        {
+          "rank": 3,
+          "entry": 7665044,
+          "entry_name": "deft_SAF_SF",
+          "player_name": "Vignesh Purushothaman",
+          "event_total": 99,
+          "total": 162,
+          "is_you": false
         },
         {
           "rank": 5,
