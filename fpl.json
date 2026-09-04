@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-04T03:23:38.833215+00:00",
+  "updated_at_utc": "2026-09-04T06:29:02.371344+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "16.2"
+      "selected_by_percent": "16.1"
     },
     {
       "player_id": 329,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "28.5"
+      "selected_by_percent": "28.4"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "20.5"
+      "selected_by_percent": "20.4"
     },
     {
       "player_id": 346,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "71.5"
+      "selected_by_percent": "71.6"
     },
     {
       "player_id": 165,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "14.2"
+      "selected_by_percent": "14.3"
     },
     {
       "player_id": 204,
