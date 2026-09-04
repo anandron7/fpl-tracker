@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-04T15:25:01.381349+00:00",
+  "updated_at_utc": "2026-09-04T18:24:53.531460+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,33 +8,33 @@
   },
   "overall": {
     "points": 162,
-    "rank": 912695,
+    "rank": 912620,
     "event_points": 106,
-    "event_rank": 939542
+    "event_rank": 939478
   },
   "gameweek": {
-    "current": 2,
+    "current": 3,
     "entry_history": {
-      "event": 2,
-      "points": 106,
+      "event": 3,
+      "points": 0,
       "total_points": 162,
-      "rank": 939542,
-      "rank_sort": 961842,
+      "rank": null,
+      "rank_sort": null,
       "overall_rank": 912695,
-      "percentile_rank": 10,
-      "overall_rank_percentage": "9",
+      "percentile_rank": null,
+      "overall_rank_percentage": null,
       "bank": 0,
-      "value": 1003,
-      "event_transfers": 0,
+      "value": 1006,
+      "event_transfers": 1,
       "event_transfers_cost": 0,
-      "points_on_bench": 4
+      "points_on_bench": 0
     }
   },
   "squad": [
     {
-      "player_id": 496,
-      "name": "Kinsky",
-      "club": "TOT",
+      "player_id": 109,
+      "name": "Verbruggen",
+      "club": "BHA",
       "position": "GK",
       "price": 4.5,
       "squad_position": 1,
@@ -44,9 +44,9 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 3,
-      "form": "1.5",
-      "selected_by_percent": "19.1"
+      "season_points": 6,
+      "form": "3.0",
+      "selected_by_percent": "22.0"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "44.4"
+      "selected_by_percent": "44.5"
     },
     {
       "player_id": 423,
@@ -80,24 +80,24 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "15.5"
+      "selected_by_percent": "15.2"
     },
     {
-      "player_id": 329,
-      "name": "Rodon",
-      "club": "LEE",
+      "player_id": 593,
+      "name": "Dedić",
+      "club": "NEW",
       "position": "DEF",
       "price": 4.5,
       "squad_position": 4,
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "i",
-      "news": "Hamstring injury - Expected back 21 Nov",
-      "chance_of_playing_next_round": 0,
-      "season_points": 7,
-      "form": "3.5",
-      "selected_by_percent": "2.3"
+      "status": "a",
+      "news": "",
+      "chance_of_playing_next_round": null,
+      "season_points": 12,
+      "form": "6.0",
+      "selected_by_percent": "3.4"
     },
     {
       "player_id": 426,
@@ -106,15 +106,15 @@
       "position": "MID",
       "price": 12.0,
       "squad_position": 5,
-      "captain": true,
-      "vice_captain": false,
-      "multiplier": 2,
+      "captain": false,
+      "vice_captain": true,
+      "multiplier": 1,
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "12.5",
-      "selected_by_percent": "48.5"
+      "selected_by_percent": "48.2"
     },
     {
       "player_id": 368,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "27.1"
+      "selected_by_percent": "26.1"
     },
     {
       "player_id": 557,
@@ -165,14 +165,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "19.2"
+      "selected_by_percent": "18.3"
     },
     {
-      "player_id": 346,
-      "name": "Calvert-Lewin",
-      "club": "LEE",
-      "position": "FWD",
-      "price": 6.0,
+      "player_id": 565,
+      "name": "M.Sangaré",
+      "club": "BRE",
+      "position": "MID",
+      "price": 5.7,
       "squad_position": 9,
       "captain": false,
       "vice_captain": false,
@@ -180,9 +180,9 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 9,
-      "form": "4.5",
-      "selected_by_percent": "25.5"
+      "season_points": 18,
+      "form": "9.0",
+      "selected_by_percent": "15.6"
     },
     {
       "player_id": 411,
@@ -191,15 +191,15 @@
       "position": "FWD",
       "price": 15.5,
       "squad_position": 10,
-      "captain": false,
-      "vice_captain": true,
-      "multiplier": 1,
+      "captain": true,
+      "vice_captain": false,
+      "multiplier": 3,
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "72.2"
+      "selected_by_percent": "72.7"
     },
     {
       "player_id": 165,
@@ -216,12 +216,12 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.2"
+      "selected_by_percent": "68.8"
     },
     {
-      "player_id": 109,
-      "name": "Verbruggen",
-      "club": "BHA",
+      "player_id": 496,
+      "name": "Kinsky",
+      "club": "TOT",
       "position": "GK",
       "price": 4.5,
       "squad_position": 12,
@@ -231,16 +231,16 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 6,
-      "form": "3.0",
-      "selected_by_percent": "21.9"
+      "season_points": 3,
+      "form": "1.5",
+      "selected_by_percent": "18.7"
     },
     {
-      "player_id": 565,
-      "name": "M.Sangaré",
-      "club": "BRE",
-      "position": "MID",
-      "price": 5.7,
+      "player_id": 346,
+      "name": "Calvert-Lewin",
+      "club": "LEE",
+      "position": "FWD",
+      "price": 6.0,
       "squad_position": 13,
       "captain": false,
       "vice_captain": false,
@@ -248,9 +248,9 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "season_points": 18,
-      "form": "9.0",
-      "selected_by_percent": "15.1"
+      "season_points": 9,
+      "form": "4.5",
+      "selected_by_percent": "25.1"
     },
     {
       "player_id": 204,
@@ -287,7 +287,13 @@
       "selected_by_percent": "3.0"
     }
   ],
-  "chips": [],
+  "chips": [
+    {
+      "name": "3xc",
+      "time": "2026-09-04T15:59:59.717429Z",
+      "event": 3
+    }
+  ],
   "history": [
     {
       "event": 1,
@@ -318,14 +324,39 @@
       "event_transfers": 0,
       "event_transfers_cost": 0,
       "points_on_bench": 4
+    },
+    {
+      "event": 3,
+      "points": 0,
+      "total_points": 162,
+      "rank": null,
+      "rank_sort": null,
+      "overall_rank": 912695,
+      "percentile_rank": null,
+      "overall_rank_percentage": null,
+      "bank": 0,
+      "value": 1006,
+      "event_transfers": 1,
+      "event_transfers_cost": 0,
+      "points_on_bench": 0
     }
   ],
-  "transfers": [],
+  "transfers": [
+    {
+      "element_in": 593,
+      "element_in_cost": 45,
+      "element_out": 329,
+      "element_out_cost": 45,
+      "entry": 2521217,
+      "event": 3,
+      "time": "2026-09-04T15:59:22.489902Z"
+    }
+  ],
   "mini_leagues": [
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 202064,
+      "entry_rank": 202111,
       "entry_last_rank": 359798,
       "league_type": "s",
       "standings": null
@@ -341,7 +372,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 912695,
+      "entry_rank": 912620,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -349,7 +380,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 912695,
+      "entry_rank": 912620,
       "entry_last_rank": 2677591,
       "league_type": "s",
       "standings": null
@@ -480,6 +511,15 @@
         },
         {
           "rank": 14,
+          "entry": 3540502,
+          "entry_name": "Until GW6 11",
+          "player_name": "Archit Ramprasad",
+          "event_total": 94,
+          "total": 146,
+          "is_you": false
+        },
+        {
+          "rank": 14,
           "entry": 1075587,
           "entry_name": "FC Madipakkam",
           "player_name": "Venkatesh-Adithya SHREEDHARAN",
@@ -497,15 +537,6 @@
           "is_you": false
         },
         {
-          "rank": 14,
-          "entry": 3540502,
-          "entry_name": "Until GW6 11",
-          "player_name": "Archit Ramprasad",
-          "event_total": 94,
-          "total": 146,
-          "is_you": false
-        },
-        {
           "rank": 17,
           "entry": 379845,
           "entry_name": "Noni To GyokerEze",
@@ -516,19 +547,19 @@
         },
         {
           "rank": 18,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 79,
+          "entry": 19718,
+          "entry_name": "Redstuds",
+          "player_name": "Harish Reddy",
+          "event_total": 76,
           "total": 138,
           "is_you": false
         },
         {
           "rank": 18,
-          "entry": 19718,
-          "entry_name": "Redstuds",
-          "player_name": "Harish Reddy",
-          "event_total": 76,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 79,
           "total": 138,
           "is_you": false
         },
