@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-04T12:30:00.719641+00:00",
+  "updated_at_utc": "2026-09-04T15:25:01.381349+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "19.3"
+      "selected_by_percent": "19.1"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "44.3"
+      "selected_by_percent": "44.4"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "15.8"
+      "selected_by_percent": "15.5"
     },
     {
       "player_id": 329,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 7,
       "form": "3.5",
-      "selected_by_percent": "2.5"
+      "selected_by_percent": "2.3"
     },
     {
       "player_id": 426,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "27.7"
+      "selected_by_percent": "27.1"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "19.8"
+      "selected_by_percent": "19.2"
     },
     {
       "player_id": 346,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "4.5",
-      "selected_by_percent": "25.7"
+      "selected_by_percent": "25.5"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "7.5",
-      "selected_by_percent": "71.9"
+      "selected_by_percent": "72.2"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.3"
+      "selected_by_percent": "69.2"
     },
     {
       "player_id": 109,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "21.8"
+      "selected_by_percent": "21.9"
     },
     {
       "player_id": 565,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "14.8"
+      "selected_by_percent": "15.1"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "4.7"
+      "selected_by_percent": "4.6"
     },
     {
       "player_id": 539,
@@ -480,10 +480,10 @@
         },
         {
           "rank": 14,
-          "entry": 3540502,
-          "entry_name": "Until GW6 11",
-          "player_name": "Archit Ramprasad",
-          "event_total": 94,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 98,
           "total": 146,
           "is_you": false
         },
@@ -498,10 +498,10 @@
         },
         {
           "rank": 14,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 98,
+          "entry": 3540502,
+          "entry_name": "Until GW6 11",
+          "player_name": "Archit Ramprasad",
+          "event_total": 94,
           "total": 146,
           "is_you": false
         },
