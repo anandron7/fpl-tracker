@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-04T00:31:37.628497+00:00",
+  "updated_at_utc": "2026-09-04T03:23:38.833215+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.5",
-      "selected_by_percent": "19.6"
+      "selected_by_percent": "19.5"
     },
     {
       "player_id": 8,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 7,
       "form": "3.5",
-      "selected_by_percent": "2.7"
+      "selected_by_percent": "2.6"
     },
     {
       "player_id": 426,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 13,
       "form": "6.5",
-      "selected_by_percent": "28.6"
+      "selected_by_percent": "28.5"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 6,
       "form": "3.0",
-      "selected_by_percent": "20.6"
+      "selected_by_percent": "20.5"
     },
     {
       "player_id": 346,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "10.0",
-      "selected_by_percent": "69.6"
+      "selected_by_percent": "69.5"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "9.0",
-      "selected_by_percent": "14.1"
+      "selected_by_percent": "14.2"
     },
     {
       "player_id": 204,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.5",
-      "selected_by_percent": "3.1"
+      "selected_by_percent": "3.0"
     }
   ],
   "chips": [],
@@ -480,10 +480,10 @@
         },
         {
           "rank": 14,
-          "entry": 8491589,
-          "entry_name": "How Dalot can you go",
-          "player_name": "muthu elango",
-          "event_total": 93,
+          "entry": 3540502,
+          "entry_name": "Until GW6 11",
+          "player_name": "Archit Ramprasad",
+          "event_total": 94,
           "total": 146,
           "is_you": false
         },
@@ -498,10 +498,10 @@
         },
         {
           "rank": 14,
-          "entry": 3540502,
-          "entry_name": "Until GW6 11",
-          "player_name": "Archit Ramprasad",
-          "event_total": 94,
+          "entry": 8491589,
+          "entry_name": "How Dalot can you go",
+          "player_name": "muthu elango",
+          "event_total": 93,
           "total": 146,
           "is_you": false
         },
@@ -623,21 +623,21 @@
         },
         {
           "rank": 3,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 106,
-          "total": 162,
-          "is_you": true
-        },
-        {
-          "rank": 3,
           "entry": 7665044,
           "entry_name": "deft_SAF_SF",
           "player_name": "Vignesh Purushothaman",
           "event_total": 99,
           "total": 162,
           "is_you": false
+        },
+        {
+          "rank": 3,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 106,
+          "total": 162,
+          "is_you": true
         },
         {
           "rank": 5,
