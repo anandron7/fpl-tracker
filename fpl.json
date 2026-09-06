@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-05T21:21:31.991989+00:00",
+  "updated_at_utc": "2026-09-06T00:36:02.490570+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 196,
-    "rank": 1341295,
+    "rank": 1342120,
     "event_points": 34,
-    "event_rank": 6266635
+    "event_rank": 6268392
   },
   "gameweek": {
     "current": 3,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 3,
       "form": "1.0",
-      "selected_by_percent": "15.4"
+      "selected_by_percent": "15.3"
     },
     {
       "player_id": 593,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "6.7",
-      "selected_by_percent": "71.5"
+      "selected_by_percent": "71.6"
     },
     {
       "player_id": 496,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 10,
       "form": "3.3",
-      "selected_by_percent": "25.6"
+      "selected_by_percent": "25.5"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "5.3",
-      "selected_by_percent": "4.8"
+      "selected_by_percent": "4.9"
     },
     {
       "player_id": 539,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 254982,
+      "entry_rank": 255154,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -364,7 +364,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 44344,
+      "entry_rank": 44367,
       "entry_last_rank": 32591,
       "league_type": "s",
       "standings": null
@@ -372,7 +372,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1341255,
+      "entry_rank": 1342080,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -380,7 +380,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1341295,
+      "entry_rank": 1342120,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -493,19 +493,19 @@
         },
         {
           "rank": 12,
-          "entry": 330520,
-          "entry_name": "Arsenal_kr",
-          "player_name": "kr goutham",
-          "event_total": 42,
+          "entry": 7073267,
+          "entry_name": "Lyf gave me Lammens಄",
+          "player_name": "Adharsh Nair",
+          "event_total": 35,
           "total": 193,
           "is_you": false
         },
         {
           "rank": 12,
-          "entry": 7073267,
-          "entry_name": "Lyf gave me Lammens಄",
-          "player_name": "Adharsh Nair",
-          "event_total": 35,
+          "entry": 330520,
+          "entry_name": "Arsenal_kr",
+          "player_name": "kr goutham",
+          "event_total": 42,
           "total": 193,
           "is_you": false
         },
@@ -622,7 +622,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 44495,
+      "entry_rank": 44518,
       "entry_last_rank": 32693,
       "league_type": "s",
       "standings": null
