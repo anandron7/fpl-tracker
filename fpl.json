@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-06T03:23:44.700154+00:00",
+  "updated_at_utc": "2026-09-06T06:27:38.515398+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 196,
     "rank": 1342119,
     "event_points": 34,
-    "event_rank": 6268385
+    "event_rank": 6268376
   },
   "gameweek": {
     "current": 3,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "5.0",
-      "selected_by_percent": "40.5"
+      "selected_by_percent": "40.4"
     },
     {
       "player_id": 427,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 255156,
+      "entry_rank": 255158,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -493,19 +493,19 @@
         },
         {
           "rank": 12,
-          "entry": 330520,
-          "entry_name": "Arsenal_kr",
-          "player_name": "kr goutham",
-          "event_total": 42,
+          "entry": 7073267,
+          "entry_name": "Lyf gave me Lammens಄",
+          "player_name": "Adharsh Nair",
+          "event_total": 35,
           "total": 193,
           "is_you": false
         },
         {
           "rank": 12,
-          "entry": 7073267,
-          "entry_name": "Lyf gave me Lammens಄",
-          "player_name": "Adharsh Nair",
-          "event_total": 35,
+          "entry": 330520,
+          "entry_name": "Arsenal_kr",
+          "player_name": "kr goutham",
+          "event_total": 42,
           "total": 193,
           "is_you": false
         },
