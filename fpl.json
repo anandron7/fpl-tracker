@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-07T09:27:03.339575+00:00",
+  "updated_at_utc": "2026-09-07T12:31:23.754510+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,19 +10,19 @@
     "points": 218,
     "rank": 759785,
     "event_points": 56,
-    "event_rank": 3574060
+    "event_rank": 3574061
   },
   "gameweek": {
     "current": 3,
     "entry_history": {
       "event": 3,
-      "points": 34,
-      "total_points": 196,
-      "rank": 6276713,
-      "rank_sort": 6296685,
-      "overall_rank": 1340197,
-      "percentile_rank": 65,
-      "overall_rank_percentage": "13",
+      "points": 56,
+      "total_points": 218,
+      "rank": 3574059,
+      "rank_sort": 3597631,
+      "overall_rank": 759785,
+      "percentile_rank": 35,
+      "overall_rank_percentage": "7",
       "bank": 0,
       "value": 1006,
       "event_transfers": 1,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "7.3",
-      "selected_by_percent": "47.0"
+      "selected_by_percent": "47.1"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 7,
       "form": "2.3",
-      "selected_by_percent": "14.5"
+      "selected_by_percent": "14.4"
     },
     {
       "player_id": 593,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "47.4"
+      "selected_by_percent": "47.2"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "5.0",
-      "selected_by_percent": "39.3"
+      "selected_by_percent": "39.2"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "18.0"
+      "selected_by_percent": "17.9"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "6.0",
-      "selected_by_percent": "14.6"
+      "selected_by_percent": "14.5"
     },
     {
       "player_id": 411,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "72.0"
+      "selected_by_percent": "72.1"
     },
     {
       "player_id": 496,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 10,
       "form": "3.3",
-      "selected_by_percent": "24.7"
+      "selected_by_percent": "24.6"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "5.3",
-      "selected_by_percent": "5.3"
+      "selected_by_percent": "5.4"
     },
     {
       "player_id": 539,
@@ -327,13 +327,13 @@
     },
     {
       "event": 3,
-      "points": 34,
-      "total_points": 196,
-      "rank": 6276713,
-      "rank_sort": 6296685,
-      "overall_rank": 1340197,
-      "percentile_rank": 65,
-      "overall_rank_percentage": "13",
+      "points": 56,
+      "total_points": 218,
+      "rank": 3574059,
+      "rank_sort": 3597631,
+      "overall_rank": 759785,
+      "percentile_rank": 35,
+      "overall_rank_percentage": "7",
       "bank": 0,
       "value": 1006,
       "event_transfers": 1,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 155854,
+      "entry_rank": 155856,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -672,19 +672,19 @@
         },
         {
           "rank": 5,
-          "entry": 689579,
-          "entry_name": "Top4 FC",
-          "player_name": "Ashwin Kalyana Kumar",
-          "event_total": 59,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 73,
           "total": 211,
           "is_you": false
         },
         {
           "rank": 5,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 73,
+          "entry": 689579,
+          "entry_name": "Top4 FC",
+          "player_name": "Ashwin Kalyana Kumar",
+          "event_total": 59,
           "total": 211,
           "is_you": false
         },
