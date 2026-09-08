@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-08T18:28:45.440469+00:00",
+  "updated_at_utc": "2026-09-08T21:22:23.930695+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 218,
     "rank": 759765,
     "event_points": 56,
-    "event_rank": 3573975
+    "event_rank": 3573965
   },
   "gameweek": {
     "current": 3,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "46.4"
+      "selected_by_percent": "46.3"
     },
     {
       "player_id": 368,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "17.5"
+      "selected_by_percent": "17.4"
     },
     {
       "player_id": 565,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 155864,
+      "entry_rank": 155866,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -475,19 +475,19 @@
         },
         {
           "rank": 10,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 49,
+          "entry": 1665238,
+          "entry_name": "Voetbal",
+          "player_name": "Akshay Ramachandran",
+          "event_total": 52,
           "total": 209,
           "is_you": false
         },
         {
           "rank": 10,
-          "entry": 1665238,
-          "entry_name": "Voetbal",
-          "player_name": "Akshay Ramachandran",
-          "event_total": 52,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 49,
           "total": 209,
           "is_you": false
         },
@@ -672,19 +672,19 @@
         },
         {
           "rank": 5,
-          "entry": 689579,
-          "entry_name": "Top4 FC",
-          "player_name": "Ashwin Kalyana Kumar",
-          "event_total": 59,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 73,
           "total": 211,
           "is_you": false
         },
         {
           "rank": 5,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 73,
+          "entry": 689579,
+          "entry_name": "Top4 FC",
+          "player_name": "Ashwin Kalyana Kumar",
+          "event_total": 59,
           "total": 211,
           "is_you": false
         },
