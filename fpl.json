@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-07T21:23:59.916801+00:00",
+  "updated_at_utc": "2026-09-08T00:35:21.949913+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "5.0",
-      "selected_by_percent": "38.9"
+      "selected_by_percent": "38.8"
     },
     {
       "player_id": 427,
@@ -155,7 +155,7 @@
       "name": "Tzolis",
       "club": "ARS",
       "position": "MID",
-      "price": 6.5,
+      "price": 6.4,
       "squad_position": 8,
       "captain": false,
       "vice_captain": false,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "17.7"
+      "selected_by_percent": "17.6"
     },
     {
       "player_id": 565,
