@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-08T15:27:42.437530+00:00",
+  "updated_at_utc": "2026-09-08T18:28:45.440469+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 218,
-    "rank": 759767,
+    "rank": 759765,
     "event_points": 56,
-    "event_rank": 3573993
+    "event_rank": 3573975
   },
   "gameweek": {
     "current": 3,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "7.3",
-      "selected_by_percent": "47.5"
+      "selected_by_percent": "47.6"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 7,
       "form": "2.3",
-      "selected_by_percent": "14.1"
+      "selected_by_percent": "14.0"
     },
     {
       "player_id": 593,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "46.5"
+      "selected_by_percent": "46.4"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "5.0",
-      "selected_by_percent": "38.6"
+      "selected_by_percent": "38.5"
     },
     {
       "player_id": 427,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "6.0",
-      "selected_by_percent": "14.2"
+      "selected_by_percent": "14.1"
     },
     {
       "player_id": 411,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 10,
       "form": "3.3",
-      "selected_by_percent": "24.1"
+      "selected_by_percent": "24.0"
     },
     {
       "player_id": 204,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 155863,
+      "entry_rank": 155864,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -372,7 +372,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 759766,
+      "entry_rank": 759764,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -380,7 +380,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 759767,
+      "entry_rank": 759765,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -475,19 +475,19 @@
         },
         {
           "rank": 10,
-          "entry": 1665238,
-          "entry_name": "Voetbal",
-          "player_name": "Akshay Ramachandran",
-          "event_total": 52,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 49,
           "total": 209,
           "is_you": false
         },
         {
           "rank": 10,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 49,
+          "entry": 1665238,
+          "entry_name": "Voetbal",
+          "player_name": "Akshay Ramachandran",
+          "event_total": 52,
           "total": 209,
           "is_you": false
         },
