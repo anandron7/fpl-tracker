@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-10T06:30:44.301969+00:00",
+  "updated_at_utc": "2026-09-10T09:25:27.365059+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 218,
-    "rank": 759757,
+    "rank": 759758,
     "event_points": 56,
     "event_rank": 3573906
   },
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "7.3",
-      "selected_by_percent": "47.9"
+      "selected_by_percent": "48.0"
     },
     {
       "player_id": 423,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 13,
       "form": "4.3",
-      "selected_by_percent": "3.5"
+      "selected_by_percent": "3.4"
     },
     {
       "player_id": 426,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "45.7"
+      "selected_by_percent": "45.6"
     },
     {
       "player_id": 368,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "25.3"
+      "selected_by_percent": "25.2"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "17.2"
+      "selected_by_percent": "17.1"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "6.0",
-      "selected_by_percent": "13.9"
+      "selected_by_percent": "13.8"
     },
     {
       "player_id": 411,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 155870,
+      "entry_rank": 155872,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -372,7 +372,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 759756,
+      "entry_rank": 759757,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -380,7 +380,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 759757,
+      "entry_rank": 759758,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -672,19 +672,19 @@
         },
         {
           "rank": 5,
-          "entry": 689579,
-          "entry_name": "Top4 FC",
-          "player_name": "Ashwin Kalyana Kumar",
-          "event_total": 59,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 73,
           "total": 211,
           "is_you": false
         },
         {
           "rank": 5,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 73,
+          "entry": 689579,
+          "entry_name": "Top4 FC",
+          "player_name": "Ashwin Kalyana Kumar",
+          "event_total": 59,
           "total": 211,
           "is_you": false
         },
