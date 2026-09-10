@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-10T00:30:47.098593+00:00",
+  "updated_at_utc": "2026-09-10T03:25:43.455129+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 7,
       "form": "2.3",
-      "selected_by_percent": "13.8"
+      "selected_by_percent": "13.7"
     },
     {
       "player_id": 593,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "5.0",
-      "selected_by_percent": "38.3"
+      "selected_by_percent": "38.4"
     },
     {
       "player_id": 427,
@@ -475,19 +475,19 @@
         },
         {
           "rank": 10,
-          "entry": 1665238,
-          "entry_name": "Voetbal",
-          "player_name": "Akshay Ramachandran",
-          "event_total": 52,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 49,
           "total": 209,
           "is_you": false
         },
         {
           "rank": 10,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 49,
+          "entry": 1665238,
+          "entry_name": "Voetbal",
+          "player_name": "Akshay Ramachandran",
+          "event_total": 52,
           "total": 209,
           "is_you": false
         },
