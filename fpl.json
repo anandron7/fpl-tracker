@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-12T00:30:05.132205+00:00",
+  "updated_at_utc": "2026-09-12T03:23:38.614417+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "2.3",
-      "selected_by_percent": "12.4"
+      "selected_by_percent": "12.3"
     },
     {
       "player_id": 593,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "43.4"
+      "selected_by_percent": "43.3"
     },
     {
       "player_id": 368,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "24.0"
+      "selected_by_percent": "23.9"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "16.2"
+      "selected_by_percent": "16.1"
     },
     {
       "player_id": 565,
@@ -672,19 +672,19 @@
         },
         {
           "rank": 5,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 73,
+          "entry": 689579,
+          "entry_name": "Top4 FC",
+          "player_name": "Ashwin Kalyana Kumar",
+          "event_total": 59,
           "total": 211,
           "is_you": false
         },
         {
           "rank": 5,
-          "entry": 689579,
-          "entry_name": "Top4 FC",
-          "player_name": "Ashwin Kalyana Kumar",
-          "event_total": 59,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 73,
           "total": 211,
           "is_you": false
         },
