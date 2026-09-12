@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-11T21:22:13.963120+00:00",
+  "updated_at_utc": "2026-09-12T00:30:05.132205+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "7.3",
-      "selected_by_percent": "48.8"
+      "selected_by_percent": "48.9"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "2.3",
-      "selected_by_percent": "12.6"
+      "selected_by_percent": "12.4"
     },
     {
       "player_id": 593,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "43.6"
+      "selected_by_percent": "43.4"
     },
     {
       "player_id": 368,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "24.1"
+      "selected_by_percent": "24.0"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "16.3"
+      "selected_by_percent": "16.2"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "6.0",
-      "selected_by_percent": "13.2"
+      "selected_by_percent": "13.1"
     },
     {
       "player_id": 411,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "73.3"
+      "selected_by_percent": "73.4"
     },
     {
       "player_id": 496,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "3.0",
-      "selected_by_percent": "18.3"
+      "selected_by_percent": "18.2"
     },
     {
       "player_id": 346,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 10,
       "form": "3.3",
-      "selected_by_percent": "22.5"
+      "selected_by_percent": "22.3"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "5.3",
-      "selected_by_percent": "6.5"
+      "selected_by_percent": "6.6"
     },
     {
       "player_id": 539,
@@ -672,19 +672,19 @@
         },
         {
           "rank": 5,
-          "entry": 689579,
-          "entry_name": "Top4 FC",
-          "player_name": "Ashwin Kalyana Kumar",
-          "event_total": 59,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 73,
           "total": 211,
           "is_you": false
         },
         {
           "rank": 5,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 73,
+          "entry": 689579,
+          "entry_name": "Top4 FC",
+          "player_name": "Ashwin Kalyana Kumar",
+          "event_total": 59,
           "total": 211,
           "is_you": false
         },
