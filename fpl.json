@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-12T09:22:47.164624+00:00",
+  "updated_at_utc": "2026-09-12T12:27:15.780768+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 218,
-    "rank": 759692,
+    "rank": 759691,
     "event_points": 56,
-    "event_rank": 3573771
+    "event_rank": 3573754
   },
   "gameweek": {
     "current": 3,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "7.3",
-      "selected_by_percent": "49.2"
+      "selected_by_percent": "49.5"
     },
     {
       "player_id": 423,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "2.3",
-      "selected_by_percent": "11.9"
+      "selected_by_percent": "11.4"
     },
     {
       "player_id": 593,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 13,
       "form": "4.3",
-      "selected_by_percent": "3.0"
+      "selected_by_percent": "2.9"
     },
     {
       "player_id": 426,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "9.0",
-      "selected_by_percent": "42.6"
+      "selected_by_percent": "41.7"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 15,
       "form": "5.0",
-      "selected_by_percent": "38.5"
+      "selected_by_percent": "38.6"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "23.5"
+      "selected_by_percent": "23.0"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 11,
       "form": "3.7",
-      "selected_by_percent": "15.9"
+      "selected_by_percent": "15.6"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "6.0",
-      "selected_by_percent": "12.9"
+      "selected_by_percent": "12.7"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 24,
       "form": "8.0",
-      "selected_by_percent": "71.2"
+      "selected_by_percent": "71.1"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 21,
       "form": "7.0",
-      "selected_by_percent": "73.7"
+      "selected_by_percent": "74.1"
     },
     {
       "player_id": 496,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "3.0",
-      "selected_by_percent": "18.1"
+      "selected_by_percent": "18.0"
     },
     {
       "player_id": 346,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 10,
       "form": "3.3",
-      "selected_by_percent": "21.9"
+      "selected_by_percent": "21.5"
     },
     {
       "player_id": 204,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "5.3",
-      "selected_by_percent": "6.9"
+      "selected_by_percent": "7.1"
     },
     {
       "player_id": 539,
@@ -356,7 +356,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 155880,
+      "entry_rank": 155885,
       "entry_last_rank": 202064,
       "league_type": "s",
       "standings": null
@@ -372,7 +372,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 759691,
+      "entry_rank": 759690,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -380,7 +380,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 759692,
+      "entry_rank": 759691,
       "entry_last_rank": 912695,
       "league_type": "s",
       "standings": null
@@ -475,19 +475,19 @@
         },
         {
           "rank": 10,
-          "entry": 1665238,
-          "entry_name": "Voetbal",
-          "player_name": "Akshay Ramachandran",
-          "event_total": 52,
+          "entry": 8766928,
+          "entry_name": "Bruno dos tres",
+          "player_name": "Sahil Asif",
+          "event_total": 49,
           "total": 209,
           "is_you": false
         },
         {
           "rank": 10,
-          "entry": 8766928,
-          "entry_name": "Bruno dos tres",
-          "player_name": "Sahil Asif",
-          "event_total": 49,
+          "entry": 1665238,
+          "entry_name": "Voetbal",
+          "player_name": "Akshay Ramachandran",
+          "event_total": 52,
           "total": 209,
           "is_you": false
         },
