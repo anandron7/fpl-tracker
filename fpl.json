@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-12T21:23:22.877314+00:00",
+  "updated_at_utc": "2026-09-13T00:31:54.486992+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,26 +8,26 @@
   },
   "overall": {
     "points": 265,
-    "rank": 906442,
+    "rank": 906444,
     "event_points": 47,
-    "event_rank": 3994019
+    "event_rank": 3994224
   },
   "gameweek": {
     "current": 4,
     "entry_history": {
       "event": 4,
-      "points": 0,
-      "total_points": 218,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 759785,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 47,
+      "total_points": 265,
+      "rank": 3994013,
+      "rank_sort": 4006989,
+      "overall_rank": 906439,
+      "percentile_rank": 40,
+      "overall_rank_percentage": "8",
       "bank": 13,
       "value": 1004,
       "event_transfers": 2,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 11
     }
   },
   "squad": [
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 9,
       "form": "2.2",
-      "selected_by_percent": "22.3"
+      "selected_by_percent": "22.2"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 28,
       "form": "7.0",
-      "selected_by_percent": "49.3"
+      "selected_by_percent": "49.4"
     },
     {
       "player_id": 204,
@@ -97,14 +97,14 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "11.7"
+      "selected_by_percent": "11.6"
     },
     {
       "player_id": 40,
       "name": "Rogers",
       "club": "CHE",
       "position": "MID",
-      "price": 7.6,
+      "price": 7.7,
       "squad_position": 5,
       "captain": false,
       "vice_captain": false,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "35.1"
+      "selected_by_percent": "35.2"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "38.2"
+      "selected_by_percent": "38.1"
     },
     {
       "player_id": 427,
@@ -189,7 +189,7 @@
       "name": "João Pedro",
       "club": "CHE",
       "position": "FWD",
-      "price": 7.7,
+      "price": 7.8,
       "squad_position": 10,
       "captain": true,
       "vice_captain": false,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "74.0"
+      "selected_by_percent": "74.1"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "22.7"
+      "selected_by_percent": "22.6"
     },
     {
       "player_id": 496,
@@ -342,18 +342,18 @@
     },
     {
       "event": 4,
-      "points": 0,
-      "total_points": 218,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 759785,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 47,
+      "total_points": 265,
+      "rank": 3994013,
+      "rank_sort": 4006989,
+      "overall_rank": 906439,
+      "percentile_rank": 40,
+      "overall_rank_percentage": "8",
       "bank": 13,
       "value": 1004,
       "event_transfers": 2,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 11
     }
   ],
   "transfers": [
@@ -389,7 +389,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 169436,
+      "entry_rank": 169442,
       "entry_last_rank": 155854,
       "league_type": "s",
       "standings": null
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 906422,
+      "entry_rank": 906424,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 906442,
+      "entry_rank": 906444,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
