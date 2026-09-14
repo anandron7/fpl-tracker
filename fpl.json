@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-14T03:25:49.300386+00:00",
+  "updated_at_utc": "2026-09-14T06:32:28.008640+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 284,
     "rank": 1359099,
     "event_points": 66,
-    "event_rank": 5139845
+    "event_rank": 5139847
   },
   "gameweek": {
     "current": 4,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "22.5"
+      "selected_by_percent": "22.4"
     },
     {
       "player_id": 496,
@@ -389,7 +389,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 250444,
+      "entry_rank": 250446,
       "entry_last_rank": 155854,
       "league_type": "s",
       "standings": null
@@ -517,21 +517,21 @@
         },
         {
           "rank": 11,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 66,
-          "total": 284,
-          "is_you": true
-        },
-        {
-          "rank": 11,
           "entry": 330520,
           "entry_name": "Arsenal_kr",
           "player_name": "kr goutham",
           "event_total": 76,
           "total": 284,
           "is_you": false
+        },
+        {
+          "rank": 11,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 66,
+          "total": 284,
+          "is_you": true
         },
         {
           "rank": 13,
