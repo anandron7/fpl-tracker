@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-14T15:28:00.216168+00:00",
+  "updated_at_utc": "2026-09-14T18:27:54.153901+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 284,
-    "rank": 1359096,
+    "rank": 1359079,
     "event_points": 66,
-    "event_rank": 5139813
+    "event_rank": 5139770
   },
   "gameweek": {
     "current": 4,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "10.9"
+      "selected_by_percent": "10.8"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "36.7"
+      "selected_by_percent": "36.8"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "37.0"
+      "selected_by_percent": "36.9"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "5.8",
-      "selected_by_percent": "23.2"
+      "selected_by_percent": "23.1"
     },
     {
       "player_id": 557,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "72.0"
+      "selected_by_percent": "72.1"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "22.4"
+      "selected_by_percent": "22.3"
     },
     {
       "player_id": 496,
@@ -389,7 +389,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 250451,
+      "entry_rank": 250452,
       "entry_last_rank": 155854,
       "league_type": "s",
       "standings": null
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1359058,
+      "entry_rank": 1359041,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1359096,
+      "entry_rank": 1359079,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
@@ -517,21 +517,21 @@
         },
         {
           "rank": 11,
-          "entry": 330520,
-          "entry_name": "Arsenal_kr",
-          "player_name": "kr goutham",
-          "event_total": 76,
-          "total": 284,
-          "is_you": false
-        },
-        {
-          "rank": 11,
           "entry": 2521217,
           "entry_name": "15 and the Mahomies",
           "player_name": "Anand VR",
           "event_total": 66,
           "total": 284,
           "is_you": true
+        },
+        {
+          "rank": 11,
+          "entry": 330520,
+          "entry_name": "Arsenal_kr",
+          "player_name": "kr goutham",
+          "event_total": 76,
+          "total": 284,
+          "is_you": false
         },
         {
           "rank": 13,
