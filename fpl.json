@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-14T21:23:55.936622+00:00",
+  "updated_at_utc": "2026-09-15T00:33:22.444267+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,21 +8,21 @@
   },
   "overall": {
     "points": 284,
-    "rank": 1602088,
+    "rank": 1602087,
     "event_points": 66,
-    "event_rank": 5915817
+    "event_rank": 5915808
   },
   "gameweek": {
     "current": 4,
     "entry_history": {
       "event": 4,
-      "points": 65,
-      "total_points": 283,
-      "rank": 5097249,
-      "rank_sort": 5107969,
-      "overall_rank": 1346705,
-      "percentile_rank": 50,
-      "overall_rank_percentage": "13",
+      "points": 66,
+      "total_points": 284,
+      "rank": 5915819,
+      "rank_sort": 5925020,
+      "overall_rank": 1602087,
+      "percentile_rank": 60,
+      "overall_rank_percentage": "15",
       "bank": 13,
       "value": 1004,
       "event_transfers": 2,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "22.1"
+      "selected_by_percent": "22.0"
     },
     {
       "player_id": 8,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "6.5"
+      "selected_by_percent": "6.4"
     },
     {
       "player_id": 423,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "10.7"
+      "selected_by_percent": "10.6"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "37.0"
+      "selected_by_percent": "37.1"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "36.7"
+      "selected_by_percent": "36.6"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 14,
       "form": "3.5",
-      "selected_by_percent": "15.0"
+      "selected_by_percent": "14.9"
     },
     {
       "player_id": 411,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "72.1"
+      "selected_by_percent": "72.2"
     },
     {
       "player_id": 165,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "75.0"
+      "selected_by_percent": "75.1"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "22.3"
+      "selected_by_percent": "22.2"
     },
     {
       "player_id": 496,
@@ -342,13 +342,13 @@
     },
     {
       "event": 4,
-      "points": 65,
-      "total_points": 283,
-      "rank": 5097249,
-      "rank_sort": 5107969,
-      "overall_rank": 1346705,
-      "percentile_rank": 50,
-      "overall_rank_percentage": "13",
+      "points": 66,
+      "total_points": 284,
+      "rank": 5915819,
+      "rank_sort": 5925020,
+      "overall_rank": 1602087,
+      "percentile_rank": 60,
+      "overall_rank_percentage": "15",
       "bank": 13,
       "value": 1004,
       "event_transfers": 2,
@@ -389,7 +389,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 294013,
+      "entry_rank": 294016,
       "entry_last_rank": 155854,
       "league_type": "s",
       "standings": null
@@ -397,7 +397,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 52546,
+      "entry_rank": 52545,
       "entry_last_rank": 26193,
       "league_type": "s",
       "standings": null
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1602035,
+      "entry_rank": 1602034,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1602088,
+      "entry_rank": 1602087,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
@@ -655,7 +655,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 52724,
+      "entry_rank": 52723,
       "entry_last_rank": 26274,
       "league_type": "s",
       "standings": null
