@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-16T09:25:12.434218+00:00",
+  "updated_at_utc": "2026-09-16T12:30:34.767122+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 284,
-    "rank": 1661697,
+    "rank": 1661689,
     "event_points": 66,
-    "event_rank": 6351638
+    "event_rank": 6351600
   },
   "gameweek": {
     "current": 4,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "5.8",
-      "selected_by_percent": "22.7"
+      "selected_by_percent": "22.6"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 14,
       "form": "3.5",
-      "selected_by_percent": "14.6"
+      "selected_by_percent": "14.5"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "75.4"
+      "selected_by_percent": "75.5"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "22.0"
+      "selected_by_percent": "21.9"
     },
     {
       "player_id": 496,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "10.2"
+      "selected_by_percent": "10.1"
     },
     {
       "player_id": 539,
@@ -397,7 +397,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 54210,
+      "entry_rank": 54209,
       "entry_last_rank": 26193,
       "league_type": "s",
       "standings": null
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1661641,
+      "entry_rank": 1661633,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1661697,
+      "entry_rank": 1661689,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
@@ -655,7 +655,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 54395,
+      "entry_rank": 54394,
       "entry_last_rank": 26274,
       "league_type": "s",
       "standings": null
