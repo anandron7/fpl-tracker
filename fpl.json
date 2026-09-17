@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-17T12:30:00.445698+00:00",
+  "updated_at_utc": "2026-09-17T15:25:03.122256+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 284,
-    "rank": 1661668,
+    "rank": 1661667,
     "event_points": 66,
-    "event_rank": 6351409
+    "event_rank": 6351386
   },
   "gameweek": {
     "current": 4,
@@ -75,9 +75,9 @@
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "a",
-      "news": "",
-      "chance_of_playing_next_round": 100,
+      "status": "i",
+      "news": "Unspecified injury - Unknown return date",
+      "chance_of_playing_next_round": 0,
       "season_points": 13,
       "form": "3.2",
       "selected_by_percent": "2.8"
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "6.3"
+      "selected_by_percent": "6.2"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "38.3"
+      "selected_by_percent": "38.4"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "35.6"
+      "selected_by_percent": "35.5"
     },
     {
       "player_id": 427,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "74.3"
+      "selected_by_percent": "74.0"
     },
     {
       "player_id": 379,
@@ -389,7 +389,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 304203,
+      "entry_rank": 304207,
       "entry_last_rank": 155854,
       "league_type": "s",
       "standings": null
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1661612,
+      "entry_rank": 1661611,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1661668,
+      "entry_rank": 1661667,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
