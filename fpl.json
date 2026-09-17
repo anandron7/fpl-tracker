@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-17T00:31:02.868554+00:00",
+  "updated_at_utc": "2026-09-17T03:25:01.259993+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 284,
-    "rank": 1661681,
+    "rank": 1661682,
     "event_points": 66,
     "event_rank": 6351474
   },
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "75.0"
+      "selected_by_percent": "74.9"
     },
     {
       "player_id": 379,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "10.0"
+      "selected_by_percent": "9.9"
     },
     {
       "player_id": 539,
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1661625,
+      "entry_rank": 1661626,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1661681,
+      "entry_rank": 1661682,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
@@ -508,19 +508,19 @@
         },
         {
           "rank": 10,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 80,
+          "entry": 330520,
+          "entry_name": "Arsenal_kr",
+          "player_name": "kr goutham",
+          "event_total": 83,
           "total": 291,
           "is_you": false
         },
         {
           "rank": 10,
-          "entry": 330520,
-          "entry_name": "Arsenal_kr",
-          "player_name": "kr goutham",
-          "event_total": 83,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 80,
           "total": 291,
           "is_you": false
         },
