@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-18T03:24:00.682794+00:00",
+  "updated_at_utc": "2026-09-18T06:29:13.706795+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 284,
     "rank": 1661667,
     "event_points": 66,
-    "event_rank": 6351347
+    "event_rank": 6351338
   },
   "gameweek": {
     "current": 4,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 13,
       "form": "3.2",
-      "selected_by_percent": "2.6"
+      "selected_by_percent": "2.5"
     },
     {
       "player_id": 204,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "38.8"
+      "selected_by_percent": "38.9"
     },
     {
       "player_id": 368,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "5.8",
-      "selected_by_percent": "22.2"
+      "selected_by_percent": "22.1"
     },
     {
       "player_id": 557,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "72.5"
+      "selected_by_percent": "72.2"
     },
     {
       "player_id": 379,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "5.5",
-      "selected_by_percent": "11.6"
+      "selected_by_percent": "11.5"
     },
     {
       "player_id": 423,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "9.5"
+      "selected_by_percent": "9.4"
     },
     {
       "player_id": 539,
@@ -508,19 +508,19 @@
         },
         {
           "rank": 10,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 80,
+          "entry": 330520,
+          "entry_name": "Arsenal_kr",
+          "player_name": "kr goutham",
+          "event_total": 83,
           "total": 291,
           "is_you": false
         },
         {
           "rank": 10,
-          "entry": 330520,
-          "entry_name": "Arsenal_kr",
-          "player_name": "kr goutham",
-          "event_total": 83,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 80,
           "total": 291,
           "is_you": false
         },
