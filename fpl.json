@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-18T12:28:38.183668+00:00",
+  "updated_at_utc": "2026-09-18T15:24:05.932692+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 284,
     "rank": 1661665,
     "event_points": 66,
-    "event_rank": 6351315
+    "event_rank": 6351295
   },
   "gameweek": {
     "current": 4,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "21.4"
+      "selected_by_percent": "21.3"
     },
     {
       "player_id": 8,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 13,
       "form": "3.2",
-      "selected_by_percent": "2.4"
+      "selected_by_percent": "2.2"
     },
     {
       "player_id": 204,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "6.1"
+      "selected_by_percent": "6.0"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "39.3"
+      "selected_by_percent": "39.7"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "34.8"
+      "selected_by_percent": "34.5"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "5.8",
-      "selected_by_percent": "21.9"
+      "selected_by_percent": "21.7"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 14,
       "form": "3.5",
-      "selected_by_percent": "13.7"
+      "selected_by_percent": "13.5"
     },
     {
       "player_id": 411,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "73.1"
+      "selected_by_percent": "73.3"
     },
     {
       "player_id": 165,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "70.8"
+      "selected_by_percent": "69.4"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "21.8"
+      "selected_by_percent": "21.7"
     },
     {
       "player_id": 496,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "5.5",
-      "selected_by_percent": "11.3"
+      "selected_by_percent": "11.2"
     },
     {
       "player_id": 423,
@@ -263,11 +263,11 @@
       "vice_captain": false,
       "multiplier": 0,
       "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
-      "chance_of_playing_next_round": 75,
+      "news": "Unspecified injury - 50% chance of playing",
+      "chance_of_playing_next_round": 50,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "9.1"
+      "selected_by_percent": "8.7"
     },
     {
       "player_id": 539,
@@ -389,7 +389,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 304213,
+      "entry_rank": 304215,
       "entry_last_rank": 155854,
       "league_type": "s",
       "standings": null
