@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-17T21:23:40.676847+00:00",
+  "updated_at_utc": "2026-09-18T00:30:28.832679+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 284,
     "rank": 1661665,
     "event_points": 66,
-    "event_rank": 6351358
+    "event_rank": 6351348
   },
   "gameweek": {
     "current": 4,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "21.7"
+      "selected_by_percent": "21.6"
     },
     {
       "player_id": 8,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 13,
       "form": "3.2",
-      "selected_by_percent": "2.7"
+      "selected_by_percent": "2.6"
     },
     {
       "player_id": 204,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "38.7"
+      "selected_by_percent": "38.8"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "35.4"
+      "selected_by_percent": "35.3"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "5.8",
-      "selected_by_percent": "22.3"
+      "selected_by_percent": "22.2"
     },
     {
       "player_id": 557,
@@ -172,7 +172,7 @@
       "name": "Haaland",
       "club": "MCI",
       "position": "FWD",
-      "price": 15.5,
+      "price": 15.6,
       "squad_position": 9,
       "captain": false,
       "vice_captain": true,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "72.8"
+      "selected_by_percent": "72.9"
     },
     {
       "player_id": 165,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "73.0"
+      "selected_by_percent": "72.7"
     },
     {
       "player_id": 379,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "9.6"
+      "selected_by_percent": "9.5"
     },
     {
       "player_id": 539,
