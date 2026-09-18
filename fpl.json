@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-18T06:29:13.706795+00:00",
+  "updated_at_utc": "2026-09-18T09:24:56.163515+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 284,
-    "rank": 1661667,
+    "rank": 1661668,
     "event_points": 66,
-    "event_rank": 6351338
+    "event_rank": 6351335
   },
   "gameweek": {
     "current": 4,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "21.6"
+      "selected_by_percent": "21.5"
     },
     {
       "player_id": 8,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 17,
       "form": "4.2",
-      "selected_by_percent": "6.2"
+      "selected_by_percent": "6.1"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "6.8",
-      "selected_by_percent": "38.9"
+      "selected_by_percent": "39.1"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "35.2"
+      "selected_by_percent": "35.0"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 14,
       "form": "3.5",
-      "selected_by_percent": "14.0"
+      "selected_by_percent": "13.9"
     },
     {
       "player_id": 411,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "72.9"
+      "selected_by_percent": "73.0"
     },
     {
       "player_id": 165,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "8.2",
-      "selected_by_percent": "72.2"
+      "selected_by_percent": "71.6"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "6.2",
-      "selected_by_percent": "21.9"
+      "selected_by_percent": "21.8"
     },
     {
       "player_id": 496,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "4.0",
-      "selected_by_percent": "18.3"
+      "selected_by_percent": "18.2"
     },
     {
       "player_id": 565,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 7,
       "form": "1.8",
-      "selected_by_percent": "9.4"
+      "selected_by_percent": "9.3"
     },
     {
       "player_id": 539,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 1,
       "form": "0.2",
-      "selected_by_percent": "2.5"
+      "selected_by_percent": "2.4"
     }
   ],
   "chips": [
@@ -405,7 +405,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1661611,
+      "entry_rank": 1661612,
       "entry_last_rank": 759784,
       "league_type": "s",
       "standings": null
@@ -413,7 +413,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1661667,
+      "entry_rank": 1661668,
       "entry_last_rank": 759785,
       "league_type": "s",
       "standings": null
