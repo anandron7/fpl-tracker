@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-18T21:22:51.206194+00:00",
+  "updated_at_utc": "2026-09-19T00:30:16.257756+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,21 +8,21 @@
   },
   "overall": {
     "points": 286,
-    "rank": 1710762,
+    "rank": 1710758,
     "event_points": 2,
-    "event_rank": 5954919
+    "event_rank": 5954890
   },
   "gameweek": {
     "current": 5,
     "entry_history": {
       "event": 5,
-      "points": 0,
-      "total_points": 284,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 1661706,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 2,
+      "total_points": 286,
+      "rank": 5954913,
+      "rank_sort": 6252420,
+      "overall_rank": 1710761,
+      "percentile_rank": 55,
+      "overall_rank_percentage": "16",
       "bank": 1,
       "value": 1007,
       "event_transfers": 1,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "3.2",
-      "selected_by_percent": "18.3"
+      "selected_by_percent": "18.2"
     },
     {
       "player_id": 8,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "3.6",
-      "selected_by_percent": "34.6"
+      "selected_by_percent": "34.5"
     },
     {
       "player_id": 427,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "6.6",
-      "selected_by_percent": "68.7"
+      "selected_by_percent": "68.6"
     },
     {
       "player_id": 379,
@@ -240,7 +240,7 @@
       "name": "M.Sangaré",
       "club": "BRE",
       "position": "MID",
-      "price": 5.7,
+      "price": 5.6,
       "squad_position": 13,
       "captain": false,
       "vice_captain": false,
@@ -250,14 +250,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "4.4",
-      "selected_by_percent": "11.1"
+      "selected_by_percent": "11.0"
     },
     {
       "player_id": 423,
       "name": "Shaw",
       "club": "MUN",
       "position": "DEF",
-      "price": 4.4,
+      "price": 4.3,
       "squad_position": 14,
       "captain": false,
       "vice_captain": false,
@@ -267,14 +267,14 @@
       "chance_of_playing_next_round": 50,
       "season_points": 7,
       "form": "1.4",
-      "selected_by_percent": "8.4"
+      "selected_by_percent": "8.3"
     },
     {
       "player_id": 539,
       "name": "O'Nien",
       "club": "SUN",
       "position": "DEF",
-      "price": 4.0,
+      "price": 3.9,
       "squad_position": 15,
       "captain": false,
       "vice_captain": false,
@@ -357,13 +357,13 @@
     },
     {
       "event": 5,
-      "points": 0,
-      "total_points": 284,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 1661706,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 2,
+      "total_points": 286,
+      "rank": 5954913,
+      "rank_sort": 6252420,
+      "overall_rank": 1710761,
+      "percentile_rank": 55,
+      "overall_rank_percentage": "16",
       "bank": 1,
       "value": 1007,
       "event_transfers": 1,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 311216,
+      "entry_rank": 311217,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1710681,
+      "entry_rank": 1710677,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1710762,
+      "entry_rank": 1710758,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
