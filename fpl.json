@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-19T21:21:54.632426+00:00",
+  "updated_at_utc": "2026-09-20T00:31:52.982239+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 291,
-    "rank": 2615144,
+    "rank": 2615062,
     "event_points": 7,
-    "event_rank": 9470444
+    "event_rank": 9470389
   },
   "gameweek": {
     "current": 5,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "3.6",
-      "selected_by_percent": "34.3"
+      "selected_by_percent": "34.2"
     },
     {
       "player_id": 427,
@@ -155,7 +155,7 @@
       "name": "Tzolis",
       "club": "ARS",
       "position": "MID",
-      "price": 6.4,
+      "price": 6.3,
       "squad_position": 8,
       "captain": false,
       "vice_captain": false,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "3.2",
-      "selected_by_percent": "13.0"
+      "selected_by_percent": "12.9"
     },
     {
       "player_id": 411,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 460072,
+      "entry_rank": 460061,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -421,7 +421,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 85018,
+      "entry_rank": 85013,
       "entry_last_rank": 54210,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2613768,
+      "entry_rank": 2613687,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2615144,
+      "entry_rank": 2615062,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -679,7 +679,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 85285,
+      "entry_rank": 85280,
       "entry_last_rank": 54395,
       "league_type": "s",
       "standings": null
