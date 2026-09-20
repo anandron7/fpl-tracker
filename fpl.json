@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-20T18:24:57.445512+00:00",
+  "updated_at_utc": "2026-09-20T21:22:24.756363+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 1931064,
+    "rank": 1930857,
     "event_points": 42,
-    "event_rank": 6124384
+    "event_rank": 6118901
   },
   "gameweek": {
     "current": 5,
@@ -20,7 +20,7 @@
       "total_points": 326,
       "rank": 6124387,
       "rank_sort": 6152043,
-      "overall_rank": 1931052,
+      "overall_rank": 1931063,
       "percentile_rank": 60,
       "overall_rank_percentage": "18",
       "bank": 1,
@@ -62,7 +62,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 29,
-      "form": "5.8",
+      "form": "5.0",
       "selected_by_percent": "50.6"
     },
     {
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "4.0",
-      "selected_by_percent": "33.8"
+      "selected_by_percent": "33.7"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "5.0",
-      "selected_by_percent": "21.2"
+      "selected_by_percent": "21.1"
     },
     {
       "player_id": 557,
@@ -164,8 +164,8 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 16,
-      "form": "3.2",
-      "selected_by_percent": "12.7"
+      "form": "2.5",
+      "selected_by_percent": "12.6"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "6.6",
-      "selected_by_percent": "67.0"
+      "selected_by_percent": "66.9"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "6.6",
-      "selected_by_percent": "22.0"
+      "selected_by_percent": "22.1"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "4.4",
-      "selected_by_percent": "10.5"
+      "selected_by_percent": "10.4"
     },
     {
       "player_id": 423,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 9,
       "form": "1.8",
-      "selected_by_percent": "8.0"
+      "selected_by_percent": "7.9"
     },
     {
       "player_id": 539,
@@ -357,18 +357,18 @@
     },
     {
       "event": 5,
-      "points": 7,
-      "total_points": 291,
-      "rank": 9463248,
-      "rank_sort": 9484707,
-      "overall_rank": 2610446,
-      "percentile_rank": 90,
-      "overall_rank_percentage": "24",
+      "points": 42,
+      "total_points": 326,
+      "rank": 6124387,
+      "rank_sort": 6152043,
+      "overall_rank": 1931063,
+      "percentile_rank": 60,
+      "overall_rank_percentage": "18",
       "bank": 1,
       "value": 1007,
       "event_transfers": 1,
       "event_transfers_cost": 0,
-      "points_on_bench": 7
+      "points_on_bench": 8
     }
   ],
   "transfers": [
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 335016,
+      "entry_rank": 334995,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -421,7 +421,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 64219,
+      "entry_rank": 64214,
       "entry_last_rank": 54210,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1930650,
+      "entry_rank": 1930443,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1931064,
+      "entry_rank": 1930857,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -679,7 +679,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 64418,
+      "entry_rank": 64413,
       "entry_last_rank": 54395,
       "league_type": "s",
       "standings": null
@@ -729,21 +729,21 @@
         },
         {
           "rank": 5,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 42,
-          "total": 326,
-          "is_you": true
-        },
-        {
-          "rank": 5,
           "entry": 1992354,
           "entry_name": "Tosin the Neto",
           "player_name": "Anubhav Siddharth",
           "event_total": 35,
           "total": 326,
           "is_you": false
+        },
+        {
+          "rank": 5,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 42,
+          "total": 326,
+          "is_you": true
         },
         {
           "rank": 7,
