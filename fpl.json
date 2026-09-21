@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-21T06:31:46.011495+00:00",
+  "updated_at_utc": "2026-09-21T09:25:27.426704+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 1930858,
+    "rank": 1930859,
     "event_points": 42,
-    "event_rank": 6118874
+    "event_rank": 6118867
   },
   "gameweek": {
     "current": 5,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "4.0",
-      "selected_by_percent": "33.6"
+      "selected_by_percent": "33.5"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "5.0",
-      "selected_by_percent": "21.0"
+      "selected_by_percent": "20.9"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 16,
       "form": "2.5",
-      "selected_by_percent": "12.6"
+      "selected_by_percent": "12.5"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "6.6",
-      "selected_by_percent": "66.7"
+      "selected_by_percent": "66.5"
     },
     {
       "player_id": 379,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 335004,
+      "entry_rank": 335009,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1930444,
+      "entry_rank": 1930445,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1930858,
+      "entry_rank": 1930859,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -729,21 +729,21 @@
         },
         {
           "rank": 5,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 42,
-          "total": 326,
-          "is_you": true
-        },
-        {
-          "rank": 5,
           "entry": 1992354,
           "entry_name": "Tosin the Neto",
           "player_name": "Anubhav Siddharth",
           "event_total": 35,
           "total": 326,
           "is_you": false
+        },
+        {
+          "rank": 5,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 42,
+          "total": 326,
+          "is_you": true
         },
         {
           "rank": 7,
