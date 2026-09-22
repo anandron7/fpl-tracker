@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-21T21:23:44.638072+00:00",
+  "updated_at_utc": "2026-09-22T00:30:04.445095+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196438,
+    "rank": 2196437,
     "event_points": 42,
-    "event_rank": 7518933
+    "event_rank": 7518926
   },
   "gameweek": {
     "current": 5,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 33,
       "form": "6.6",
-      "selected_by_percent": "22.2"
+      "selected_by_percent": "22.3"
     },
     {
       "player_id": 109,
@@ -240,7 +240,7 @@
       "name": "João Pedro",
       "club": "CHE",
       "position": "FWD",
-      "price": 7.8,
+      "price": 7.7,
       "squad_position": 13,
       "captain": false,
       "vice_captain": true,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379154,
+      "entry_rank": 379153,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195811,
+      "entry_rank": 2195810,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196438,
+      "entry_rank": 2196437,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
