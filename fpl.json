@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-23T06:30:14.573760+00:00",
+  "updated_at_utc": "2026-09-23T09:24:52.584553+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 326,
     "rank": 2196409,
     "event_points": 42,
-    "event_rank": 7518693
+    "event_rank": 7518695
   },
   "gameweek": {
     "current": 5,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.0",
-      "selected_by_percent": "17.5"
+      "selected_by_percent": "17.4"
     },
     {
       "player_id": 8,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379153,
+      "entry_rank": 379155,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
