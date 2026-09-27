@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-27T18:58:20.421484+00:00",
+  "updated_at_utc": "2026-09-27T23:47:39.984642+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196283,
+    "rank": 2196261,
     "event_points": 42,
-    "event_rank": 7518158
+    "event_rank": 7518117
   },
   "gameweek": {
     "current": 5,
@@ -79,7 +79,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 37,
-      "form": "7.0",
+      "form": "7.7",
       "selected_by_percent": "26.8"
     },
     {
@@ -96,7 +96,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 24,
-      "form": "5.8",
+      "form": "7.7",
       "selected_by_percent": "6.0"
     },
     {
@@ -198,7 +198,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 39,
-      "form": "9.2",
+      "form": "8.0",
       "selected_by_percent": "73.8"
     },
     {
@@ -212,7 +212,7 @@
       "vice_captain": false,
       "multiplier": 1,
       "status": "d",
-      "news": "Foot injury - 75% chance of playing",
+      "news": "Thigh injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "7.8",
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379149,
+      "entry_rank": 379148,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195656,
+      "entry_rank": 2195634,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196283,
+      "entry_rank": 2196261,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
