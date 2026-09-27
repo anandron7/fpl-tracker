@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-27T09:11:59.802860+00:00",
+  "updated_at_utc": "2026-09-27T14:40:46.311120+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196384,
+    "rank": 2196284,
     "event_points": 42,
-    "event_rank": 7518406
+    "event_rank": 7518165
   },
   "gameweek": {
     "current": 5,
@@ -211,9 +211,9 @@
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "a",
-      "news": "",
-      "chance_of_playing_next_round": null,
+      "status": "d",
+      "news": "Foot injury - 75% chance of playing",
+      "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "7.8",
       "selected_by_percent": "22.5"
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379161,
+      "entry_rank": 379148,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -421,7 +421,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 73180,
+      "entry_rank": 73178,
       "entry_last_rank": 54210,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195757,
+      "entry_rank": 2195657,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196384,
+      "entry_rank": 2196284,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -679,7 +679,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 73397,
+      "entry_rank": 73395,
       "entry_last_rank": 54395,
       "league_type": "s",
       "standings": null
