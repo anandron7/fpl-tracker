@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-01T10:03:59.745792+00:00",
+  "updated_at_utc": "2026-10-01T18:24:26.091689+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196240,
+    "rank": 2196237,
     "event_points": 42,
-    "event_rank": 7517980
+    "event_rank": 7517960
   },
   "gameweek": {
     "current": 5,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "7.7",
-      "selected_by_percent": "22.4"
+      "selected_by_percent": "22.3"
     },
     {
       "player_id": 109,
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195613,
+      "entry_rank": 2195610,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196240,
+      "entry_rank": 2196237,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
