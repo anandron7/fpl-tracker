@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-02T09:41:56.579268+00:00",
+  "updated_at_utc": "2026-10-02T17:51:19.503495+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196233,
+    "rank": 2196230,
     "event_points": 42,
-    "event_rank": 7517940
+    "event_rank": 7517928
   },
   "gameweek": {
     "current": 5,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "4.0",
-      "selected_by_percent": "20.6"
+      "selected_by_percent": "20.5"
     },
     {
       "player_id": 557,
@@ -160,9 +160,9 @@
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "a",
-      "news": "",
-      "chance_of_playing_next_round": null,
+      "status": "d",
+      "news": "Hamstring injury - 75% chance of playing",
+      "chance_of_playing_next_round": 75,
       "season_points": 16,
       "form": "3.3",
       "selected_by_percent": "12.1"
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195606,
+      "entry_rank": 2195603,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196233,
+      "entry_rank": 2196230,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
