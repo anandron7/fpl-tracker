@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-02T17:51:19.503495+00:00",
+  "updated_at_utc": "2026-10-02T22:10:46.425405+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196230,
+    "rank": 2196229,
     "event_points": 42,
-    "event_rank": 7517928
+    "event_rank": 7517920
   },
   "gameweek": {
     "current": 5,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "5.0",
-      "selected_by_percent": "17.3"
+      "selected_by_percent": "17.2"
     },
     {
       "player_id": 8,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "4.3",
-      "selected_by_percent": "65.1"
+      "selected_by_percent": "65.0"
     },
     {
       "player_id": 423,
@@ -421,7 +421,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 73178,
+      "entry_rank": 73179,
       "entry_last_rank": 54210,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195603,
+      "entry_rank": 2195602,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196230,
+      "entry_rank": 2196229,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -679,7 +679,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 73395,
+      "entry_rank": 73396,
       "entry_last_rank": 54395,
       "league_type": "s",
       "standings": null
