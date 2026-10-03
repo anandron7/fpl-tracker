@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-03T11:35:58.461948+00:00",
+  "updated_at_utc": "2026-10-03T16:14:46.829517+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 326,
     "rank": 2196228,
     "event_points": 42,
-    "event_rank": 7517908
+    "event_rank": 7517898
   },
   "gameweek": {
     "current": 5,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "7.7",
-      "selected_by_percent": "26.8"
+      "selected_by_percent": "26.9"
     },
     {
       "player_id": 204,
