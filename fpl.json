@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-03T05:14:13.537364+00:00",
+  "updated_at_utc": "2026-10-03T11:35:58.461948+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196229,
+    "rank": 2196228,
     "event_points": 42,
-    "event_rank": 7517909
+    "event_rank": 7517908
   },
   "gameweek": {
     "current": 5,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379151,
+      "entry_rank": 379153,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195602,
+      "entry_rank": 2195601,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196229,
+      "entry_rank": 2196228,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
