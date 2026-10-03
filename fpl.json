@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-02T22:10:46.425405+00:00",
+  "updated_at_utc": "2026-10-03T05:14:13.537364+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 326,
     "rank": 2196229,
     "event_points": 42,
-    "event_rank": 7517920
+    "event_rank": 7517909
   },
   "gameweek": {
     "current": 5,
@@ -121,7 +121,7 @@
       "name": "Szoboszlai",
       "club": "LIV",
       "position": "MID",
-      "price": 7.0,
+      "price": 6.9,
       "squad_position": 6,
       "captain": false,
       "vice_captain": false,
