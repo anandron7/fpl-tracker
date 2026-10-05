@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-04T23:56:48.996855+00:00",
+  "updated_at_utc": "2026-10-05T05:34:38.655599+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
