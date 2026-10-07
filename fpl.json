@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-07T10:11:44.701109+00:00",
+  "updated_at_utc": "2026-10-07T18:55:41.741604+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196207,
+    "rank": 2196199,
     "event_points": 42,
-    "event_rank": 7517760
+    "event_rank": 7517732
   },
   "gameweek": {
     "current": 5,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "5.0",
-      "selected_by_percent": "40.8"
+      "selected_by_percent": "40.9"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "2.5",
-      "selected_by_percent": "32.5"
+      "selected_by_percent": "32.4"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 16,
       "form": "2.5",
-      "selected_by_percent": "11.8"
+      "selected_by_percent": "11.7"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "2.0",
-      "selected_by_percent": "9.8"
+      "selected_by_percent": "9.7"
     },
     {
       "player_id": 411,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "5.0",
-      "selected_by_percent": "22.0"
+      "selected_by_percent": "21.9"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "6.0",
-      "selected_by_percent": "64.7"
+      "selected_by_percent": "64.6"
     },
     {
       "player_id": 423,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379158,
+      "entry_rank": 379159,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195580,
+      "entry_rank": 2195572,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196207,
+      "entry_rank": 2196199,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
