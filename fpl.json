@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-06T20:16:13.550231+00:00",
+  "updated_at_utc": "2026-10-07T00:40:30.279525+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196209,
+    "rank": 2196210,
     "event_points": 42,
-    "event_rank": 7517765
+    "event_rank": 7517766
   },
   "gameweek": {
     "current": 5,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "3.5",
-      "selected_by_percent": "50.5"
+      "selected_by_percent": "50.6"
     },
     {
       "player_id": 391,
@@ -104,7 +104,7 @@
       "name": "Rogers",
       "club": "CHE",
       "position": "MID",
-      "price": 7.7,
+      "price": 7.8,
       "squad_position": 5,
       "captain": false,
       "vice_captain": false,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379156,
+      "entry_rank": 379158,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195582,
+      "entry_rank": 2195583,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196209,
+      "entry_rank": 2196210,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
