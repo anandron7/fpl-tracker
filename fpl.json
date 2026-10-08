@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-08T00:57:53.609090+00:00",
+  "updated_at_utc": "2026-10-08T10:30:19.577473+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 326,
     "rank": 2196198,
     "event_points": 42,
-    "event_rank": 7517721
+    "event_rank": 7517710
   },
   "gameweek": {
     "current": 5,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "17.1"
+      "selected_by_percent": "17.0"
     },
     {
       "player_id": 8,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "2.5",
-      "selected_by_percent": "32.4"
+      "selected_by_percent": "32.3"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 16,
       "form": "2.5",
-      "selected_by_percent": "11.6"
+      "selected_by_percent": "11.5"
     },
     {
       "player_id": 565,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "5.0",
-      "selected_by_percent": "21.9"
+      "selected_by_percent": "21.8"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "6.0",
-      "selected_by_percent": "64.5"
+      "selected_by_percent": "64.4"
     },
     {
       "player_id": 423,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379159,
+      "entry_rank": 379160,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
