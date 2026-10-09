@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-08T18:49:37.920290+00:00",
+  "updated_at_utc": "2026-10-09T01:12:02.141330+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 326,
     "rank": 2196149,
     "event_points": 42,
-    "event_rank": 7517637
+    "event_rank": 7517612
   },
   "gameweek": {
     "current": 5,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "7.5",
-      "selected_by_percent": "26.9"
+      "selected_by_percent": "27.0"
     },
     {
       "player_id": 204,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "5.0",
-      "selected_by_percent": "41.2"
+      "selected_by_percent": "41.3"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "2.5",
-      "selected_by_percent": "32.2"
+      "selected_by_percent": "32.0"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 16,
       "form": "2.5",
-      "selected_by_percent": "11.4"
+      "selected_by_percent": "11.2"
     },
     {
       "player_id": 565,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 39,
       "form": "7.5",
-      "selected_by_percent": "73.9"
+      "selected_by_percent": "74.0"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "5.0",
-      "selected_by_percent": "21.7"
+      "selected_by_percent": "21.5"
     },
     {
       "player_id": 109,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 33,
       "form": "6.0",
-      "selected_by_percent": "64.2"
+      "selected_by_percent": "64.0"
     },
     {
       "player_id": 423,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379159,
+      "entry_rank": 379161,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
