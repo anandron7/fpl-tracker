@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-09T10:29:19.368657+00:00",
+  "updated_at_utc": "2026-10-09T18:20:00.690226+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196140,
+    "rank": 2196128,
     "event_points": 42,
-    "event_rank": 7517586
+    "event_rank": 7517517
   },
   "gameweek": {
     "current": 5,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "16.8"
+      "selected_by_percent": "16.5"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "3.5",
-      "selected_by_percent": "50.8"
+      "selected_by_percent": "51.0"
     },
     {
       "player_id": 391,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "7.5",
-      "selected_by_percent": "27.0"
+      "selected_by_percent": "27.1"
     },
     {
       "player_id": 204,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "5.0",
-      "selected_by_percent": "41.4"
+      "selected_by_percent": "41.9"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "2.5",
-      "selected_by_percent": "31.9"
+      "selected_by_percent": "31.4"
     },
     {
       "player_id": 427,
@@ -160,12 +160,12 @@
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "d",
-      "news": "Hamstring injury - 75% chance of playing",
-      "chance_of_playing_next_round": 75,
+      "status": "i",
+      "news": "Hamstring injury - Expected back 24 Oct",
+      "chance_of_playing_next_round": 0,
       "season_points": 16,
       "form": "2.5",
-      "selected_by_percent": "11.0"
+      "selected_by_percent": "10.1"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "2.0",
-      "selected_by_percent": "9.5"
+      "selected_by_percent": "9.3"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 39,
       "form": "7.5",
-      "selected_by_percent": "74.0"
+      "selected_by_percent": "74.1"
     },
     {
       "player_id": 379,
@@ -211,12 +211,12 @@
       "captain": false,
       "vice_captain": false,
       "multiplier": 1,
-      "status": "d",
-      "news": "Thigh injury - 75% chance of playing",
-      "chance_of_playing_next_round": 75,
+      "status": "i",
+      "news": "Thigh injury - Unknown return date",
+      "chance_of_playing_next_round": 0,
       "season_points": 33,
       "form": "5.0",
-      "selected_by_percent": "21.3"
+      "selected_by_percent": "19.9"
     },
     {
       "player_id": 109,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "7.0",
-      "selected_by_percent": "21.5"
+      "selected_by_percent": "21.4"
     },
     {
       "player_id": 165,
@@ -245,12 +245,12 @@
       "captain": false,
       "vice_captain": true,
       "multiplier": 0,
-      "status": "d",
-      "news": "Knee injury - 75% chance of playing",
-      "chance_of_playing_next_round": 75,
+      "status": "a",
+      "news": "",
+      "chance_of_playing_next_round": 100,
       "season_points": 33,
       "form": "6.0",
-      "selected_by_percent": "63.8"
+      "selected_by_percent": "63.9"
     },
     {
       "player_id": 423,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 9,
       "form": "1.0",
-      "selected_by_percent": "7.4"
+      "selected_by_percent": "7.3"
     },
     {
       "player_id": 539,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379161,
+      "entry_rank": 379159,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195513,
+      "entry_rank": 2195501,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196140,
+      "entry_rank": 2196128,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -640,19 +640,19 @@
         },
         {
           "rank": 22,
-          "entry": 4812899,
-          "entry_name": "Fire �",
-          "player_name": "Nitin Krishnan",
-          "event_total": 46,
+          "entry": 494734,
+          "entry_name": "Chèvre FC",
+          "player_name": "Varun Sridhar",
+          "event_total": 49,
           "total": 294,
           "is_you": false
         },
         {
           "rank": 22,
-          "entry": 494734,
-          "entry_name": "Chèvre FC",
-          "player_name": "Varun Sridhar",
-          "event_total": 49,
+          "entry": 4812899,
+          "entry_name": "Fire �",
+          "player_name": "Nitin Krishnan",
+          "event_total": 46,
           "total": 294,
           "is_you": false
         },
