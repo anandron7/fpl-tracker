@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-10T00:47:12.815726+00:00",
+  "updated_at_utc": "2026-10-10T09:46:19.369777+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 326,
-    "rank": 2196118,
+    "rank": 2196096,
     "event_points": 42,
-    "event_rank": 7517482
+    "event_rank": 7517434
   },
   "gameweek": {
     "current": 5,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 18,
       "form": "4.5",
-      "selected_by_percent": "16.2"
+      "selected_by_percent": "15.8"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "3.5",
-      "selected_by_percent": "51.1"
+      "selected_by_percent": "51.4"
     },
     {
       "player_id": 391,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "7.5",
-      "selected_by_percent": "27.2"
+      "selected_by_percent": "27.3"
     },
     {
       "player_id": 204,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 24,
       "form": "4.0",
-      "selected_by_percent": "6.1"
+      "selected_by_percent": "6.0"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "5.0",
-      "selected_by_percent": "42.2"
+      "selected_by_percent": "42.8"
     },
     {
       "player_id": 368,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 20,
       "form": "2.5",
-      "selected_by_percent": "30.9"
+      "selected_by_percent": "30.0"
     },
     {
       "player_id": 427,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 25,
       "form": "2.0",
-      "selected_by_percent": "20.2"
+      "selected_by_percent": "20.0"
     },
     {
       "player_id": 557,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 16,
       "form": "2.5",
-      "selected_by_percent": "9.2"
+      "selected_by_percent": "7.7"
     },
     {
       "player_id": 565,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 22,
       "form": "2.0",
-      "selected_by_percent": "9.1"
+      "selected_by_percent": "8.7"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 39,
       "form": "7.5",
-      "selected_by_percent": "74.2"
+      "selected_by_percent": "74.3"
     },
     {
       "player_id": 379,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 33,
       "form": "5.0",
-      "selected_by_percent": "18.7"
+      "selected_by_percent": "16.7"
     },
     {
       "player_id": 109,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 23,
       "form": "7.0",
-      "selected_by_percent": "21.4"
+      "selected_by_percent": "21.2"
     },
     {
       "player_id": 165,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 33,
       "form": "6.0",
-      "selected_by_percent": "64.6"
+      "selected_by_percent": "65.5"
     },
     {
       "player_id": 423,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 9,
       "form": "1.0",
-      "selected_by_percent": "7.2"
+      "selected_by_percent": "7.0"
     },
     {
       "player_id": 539,
@@ -413,7 +413,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 379162,
+      "entry_rank": 379167,
       "entry_last_rank": 304193,
       "league_type": "s",
       "standings": null
@@ -421,7 +421,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 73176,
+      "entry_rank": 73175,
       "entry_last_rank": 54210,
       "league_type": "s",
       "standings": null
@@ -429,7 +429,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 2195491,
+      "entry_rank": 2195469,
       "entry_last_rank": 1661650,
       "league_type": "s",
       "standings": null
@@ -437,7 +437,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 2196118,
+      "entry_rank": 2196096,
       "entry_last_rank": 1661706,
       "league_type": "s",
       "standings": null
@@ -679,7 +679,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 73393,
+      "entry_rank": 73392,
       "entry_last_rank": 54395,
       "league_type": "s",
       "standings": null
