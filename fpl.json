@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-11T05:41:43.113740+00:00",
+  "updated_at_utc": "2026-10-11T12:44:22.757867+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 392,
-    "rank": 1087637,
+    "rank": 1087632,
     "event_points": 66,
-    "event_rank": 395902
+    "event_rank": 395888
   },
   "gameweek": {
     "current": 6,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "10.7",
-      "selected_by_percent": "32.4"
+      "selected_by_percent": "32.6"
     },
     {
       "player_id": 449,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 38,
       "form": "6.3",
-      "selected_by_percent": "43.3"
+      "selected_by_percent": "43.4"
     },
     {
       "player_id": 124,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "12.3",
-      "selected_by_percent": "36.8"
+      "selected_by_percent": "37.0"
     },
     {
       "player_id": 427,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "8.0",
-      "selected_by_percent": "67.3"
+      "selected_by_percent": "67.5"
     },
     {
       "player_id": 497,
@@ -539,7 +539,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1087520,
+      "entry_rank": 1087515,
       "entry_last_rank": 2195816,
       "league_type": "s",
       "standings": null
@@ -547,7 +547,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1087637,
+      "entry_rank": 1087632,
       "entry_last_rank": 2196443,
       "league_type": "s",
       "standings": null
@@ -696,19 +696,19 @@
         },
         {
           "rank": 16,
-          "entry": 5179293,
-          "entry_name": "DJ20 YNWA",
-          "player_name": "gowthamram Manohar",
-          "event_total": 58,
+          "entry": 379845,
+          "entry_name": "Noni To GyokerEze",
+          "player_name": "Karthik MG",
+          "event_total": 55,
           "total": 382,
           "is_you": false
         },
         {
           "rank": 16,
-          "entry": 379845,
-          "entry_name": "Noni To GyokerEze",
-          "player_name": "Karthik MG",
-          "event_total": 55,
+          "entry": 5179293,
+          "entry_name": "DJ20 YNWA",
+          "player_name": "gowthamram Manohar",
+          "event_total": 58,
           "total": 382,
           "is_you": false
         },
@@ -923,7 +923,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 395902,
+      "entry_rank": 395888,
       "entry_last_rank": 0,
       "league_type": "s",
       "standings": null
