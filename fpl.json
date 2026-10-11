@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-10T21:39:42.073449+00:00",
+  "updated_at_utc": "2026-10-11T05:41:43.113740+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 392,
-    "rank": 1085294,
+    "rank": 1087637,
     "event_points": 66,
-    "event_rank": 394132
+    "event_rank": 395902
   },
   "gameweek": {
     "current": 6,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 38,
       "form": "5.3",
-      "selected_by_percent": "51.6"
+      "selected_by_percent": "51.7"
     },
     {
       "player_id": 115,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "10.7",
-      "selected_by_percent": "32.2"
+      "selected_by_percent": "32.4"
     },
     {
       "player_id": 449,
@@ -114,14 +114,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 38,
       "form": "6.3",
-      "selected_by_percent": "43.2"
+      "selected_by_percent": "43.3"
     },
     {
       "player_id": 124,
       "name": "Groß",
       "club": "BHA",
       "position": "MID",
-      "price": 5.9,
+      "price": 6.0,
       "squad_position": 6,
       "captain": false,
       "vice_captain": false,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "12.3",
-      "selected_by_percent": "36.6"
+      "selected_by_percent": "36.8"
     },
     {
       "player_id": 427,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 39,
       "form": "5.0",
-      "selected_by_percent": "74.5"
+      "selected_by_percent": "74.6"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "8.0",
-      "selected_by_percent": "67.2"
+      "selected_by_percent": "67.3"
     },
     {
       "player_id": 497,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 26,
       "form": "1.0",
-      "selected_by_percent": "7.5"
+      "selected_by_percent": "7.4"
     }
   ],
   "chips": [
@@ -523,7 +523,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 200276,
+      "entry_rank": 200624,
       "entry_last_rank": 379148,
       "league_type": "s",
       "standings": null
@@ -531,7 +531,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 35634,
+      "entry_rank": 35724,
       "entry_last_rank": 73180,
       "league_type": "s",
       "standings": null
@@ -539,7 +539,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1085177,
+      "entry_rank": 1087520,
       "entry_last_rank": 2195816,
       "league_type": "s",
       "standings": null
@@ -547,7 +547,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1085294,
+      "entry_rank": 1087637,
       "entry_last_rank": 2196443,
       "league_type": "s",
       "standings": null
@@ -696,19 +696,19 @@
         },
         {
           "rank": 16,
-          "entry": 379845,
-          "entry_name": "Noni To GyokerEze",
-          "player_name": "Karthik MG",
-          "event_total": 55,
+          "entry": 5179293,
+          "entry_name": "DJ20 YNWA",
+          "player_name": "gowthamram Manohar",
+          "event_total": 58,
           "total": 382,
           "is_you": false
         },
         {
           "rank": 16,
-          "entry": 5179293,
-          "entry_name": "DJ20 YNWA",
-          "player_name": "gowthamram Manohar",
-          "event_total": 58,
+          "entry": 379845,
+          "entry_name": "Noni To GyokerEze",
+          "player_name": "Karthik MG",
+          "event_total": 55,
           "total": 382,
           "is_you": false
         },
@@ -789,7 +789,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 35748,
+      "entry_rank": 35839,
       "entry_last_rank": 73397,
       "league_type": "s",
       "standings": null
@@ -923,7 +923,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 394132,
+      "entry_rank": 395902,
       "entry_last_rank": 0,
       "league_type": "s",
       "standings": null
