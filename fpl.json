@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-11T19:32:24.864478+00:00",
+  "updated_at_utc": "2026-10-12T00:30:46.525731+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 404,
-    "rank": 1234842,
+    "rank": 1234840,
     "event_points": 78,
     "event_rank": 586536
   },
@@ -63,14 +63,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 38,
       "form": "5.3",
-      "selected_by_percent": "51.9"
+      "selected_by_percent": "52.0"
     },
     {
       "player_id": 115,
       "name": "De Cuyper",
       "club": "BHA",
       "position": "DEF",
-      "price": 5.0,
+      "price": 5.1,
       "squad_position": 3,
       "captain": false,
       "vice_captain": false,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "10.7",
-      "selected_by_percent": "33.4"
+      "selected_by_percent": "33.7"
     },
     {
       "player_id": 449,
@@ -104,7 +104,7 @@
       "name": "Rogers",
       "club": "CHE",
       "position": "MID",
-      "price": 7.8,
+      "price": 7.9,
       "squad_position": 5,
       "captain": false,
       "vice_captain": false,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 38,
       "form": "6.3",
-      "selected_by_percent": "43.9"
+      "selected_by_percent": "44.1"
     },
     {
       "player_id": 124,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "12.3",
-      "selected_by_percent": "37.6"
+      "selected_by_percent": "37.9"
     },
     {
       "player_id": 427,
@@ -155,7 +155,7 @@
       "name": "Belloumi",
       "club": "HUL",
       "position": "MID",
-      "price": 5.1,
+      "price": 5.2,
       "squad_position": 8,
       "captain": false,
       "vice_captain": false,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "7.7",
-      "selected_by_percent": "6.5"
+      "selected_by_percent": "6.6"
     },
     {
       "player_id": 12,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 34,
       "form": "4.0",
-      "selected_by_percent": "17.0"
+      "selected_by_percent": "16.9"
     },
     {
       "player_id": 411,
@@ -206,7 +206,7 @@
       "name": "João Pedro",
       "club": "CHE",
       "position": "FWD",
-      "price": 7.7,
+      "price": 7.8,
       "squad_position": 11,
       "captain": false,
       "vice_captain": false,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "8.0",
-      "selected_by_percent": "68.1"
+      "selected_by_percent": "68.4"
     },
     {
       "player_id": 497,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 29,
       "form": "7.0",
-      "selected_by_percent": "8.3"
+      "selected_by_percent": "8.4"
     },
     {
       "player_id": 305,
@@ -523,7 +523,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 219577,
+      "entry_rank": 219578,
       "entry_last_rank": 379148,
       "league_type": "s",
       "standings": null
@@ -539,7 +539,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1234641,
+      "entry_rank": 1234639,
       "entry_last_rank": 2195816,
       "league_type": "s",
       "standings": null
@@ -547,7 +547,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1234842,
+      "entry_rank": 1234840,
       "entry_last_rank": 2196443,
       "league_type": "s",
       "standings": null
