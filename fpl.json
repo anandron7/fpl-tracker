@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-12T21:15:04.774053+00:00",
+  "updated_at_utc": "2026-10-13T02:34:38.393066+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 404,
     "rank": 1278993,
     "event_points": 78,
-    "event_rank": 650763
+    "event_rank": 650762
   },
   "gameweek": {
     "current": 6,
@@ -18,11 +18,11 @@
       "event": 6,
       "points": 78,
       "total_points": 404,
-      "rank": 586727,
-      "rank_sort": 601367,
-      "overall_rank": 1234894,
+      "rank": 650763,
+      "rank_sort": 667007,
+      "overall_rank": 1278993,
       "percentile_rank": 10,
-      "overall_rank_percentage": "11",
+      "overall_rank_percentage": "12",
       "bank": 6,
       "value": 1002,
       "event_transfers": 0,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "10.7",
-      "selected_by_percent": "34.3"
+      "selected_by_percent": "34.5"
     },
     {
       "player_id": 449,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 38,
       "form": "5.5",
-      "selected_by_percent": "44.5"
+      "selected_by_percent": "44.6"
     },
     {
       "player_id": 124,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 53,
       "form": "12.3",
-      "selected_by_percent": "38.5"
+      "selected_by_percent": "38.7"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "5.0",
-      "selected_by_percent": "6.9"
+      "selected_by_percent": "7.0"
     },
     {
       "player_id": 12,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "6.0",
-      "selected_by_percent": "68.9"
+      "selected_by_percent": "69.0"
     },
     {
       "player_id": 497,
@@ -240,7 +240,7 @@
       "name": "Kostoulas",
       "club": "BHA",
       "position": "FWD",
-      "price": 5.6,
+      "price": 5.7,
       "squad_position": 13,
       "captain": false,
       "vice_captain": false,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 27,
       "form": "1.0",
-      "selected_by_percent": "7.4"
+      "selected_by_percent": "7.3"
     }
   ],
   "chips": [
@@ -379,11 +379,11 @@
       "event": 6,
       "points": 78,
       "total_points": 404,
-      "rank": 586727,
-      "rank_sort": 601367,
-      "overall_rank": 1234894,
+      "rank": 650763,
+      "rank_sort": 667007,
+      "overall_rank": 1278993,
       "percentile_rank": 10,
-      "overall_rank_percentage": "11",
+      "overall_rank_percentage": "12",
       "bank": 6,
       "value": 1002,
       "event_transfers": 0,
@@ -923,7 +923,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 650763,
+      "entry_rank": 650762,
       "entry_last_rank": 0,
       "league_type": "s",
       "standings": null
