@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-18T20:37:45.291384+00:00",
+  "updated_at_utc": "2026-10-18T23:08:34.324459+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 487,
-    "rank": 669256,
+    "rank": 669255,
     "event_points": 83,
     "event_rank": 215466
   },
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 42,
       "form": "4.3",
-      "selected_by_percent": "43.9"
+      "selected_by_percent": "44.0"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 44,
       "form": "5.3",
-      "selected_by_percent": "53.4"
+      "selected_by_percent": "53.5"
     },
     {
       "player_id": 115,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 59,
       "form": "9.0",
-      "selected_by_percent": "40.4"
+      "selected_by_percent": "40.5"
     },
     {
       "player_id": 449,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 58,
       "form": "8.3",
-      "selected_by_percent": "44.7"
+      "selected_by_percent": "44.8"
     },
     {
       "player_id": 427,
@@ -189,7 +189,7 @@
       "name": "João Pedro",
       "club": "CHE",
       "position": "FWD",
-      "price": 7.8,
+      "price": 7.9,
       "squad_position": 10,
       "captain": false,
       "vice_captain": false,
@@ -538,7 +538,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 123121,
+      "entry_rank": 123122,
       "entry_last_rank": 240702,
       "league_type": "s",
       "standings": null
@@ -554,7 +554,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 669222,
+      "entry_rank": 669221,
       "entry_last_rank": 1370266,
       "league_type": "s",
       "standings": null
@@ -562,7 +562,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 669256,
+      "entry_rank": 669255,
       "entry_last_rank": 1370528,
       "league_type": "s",
       "standings": null
@@ -666,19 +666,19 @@
         },
         {
           "rank": 11,
-          "entry": 7073267,
-          "entry_name": "Lyf gave me Lammens಄",
-          "player_name": "Adharsh Nair",
-          "event_total": 70,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 67,
           "total": 477,
           "is_you": false
         },
         {
           "rank": 11,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 67,
+          "entry": 7073267,
+          "entry_name": "Lyf gave me Lammens಄",
+          "player_name": "Adharsh Nair",
+          "event_total": 70,
           "total": 477,
           "is_you": false
         },
