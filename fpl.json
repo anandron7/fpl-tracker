@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-18T23:08:34.324459+00:00",
+  "updated_at_utc": "2026-10-19T04:35:17.754240+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 487,
-    "rank": 669255,
+    "rank": 670608,
     "event_points": 83,
-    "event_rank": 215466
+    "event_rank": 221179
   },
   "gameweek": {
     "current": 7,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "6.0",
-      "selected_by_percent": "19.8"
+      "selected_by_percent": "19.9"
     },
     {
       "player_id": 12,
@@ -538,7 +538,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 123122,
+      "entry_rank": 123286,
       "entry_last_rank": 240702,
       "league_type": "s",
       "standings": null
@@ -546,7 +546,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 22997,
+      "entry_rank": 23042,
       "entry_last_rank": 45628,
       "league_type": "s",
       "standings": null
@@ -554,7 +554,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 669221,
+      "entry_rank": 670574,
       "entry_last_rank": 1370266,
       "league_type": "s",
       "standings": null
@@ -562,7 +562,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 669255,
+      "entry_rank": 670608,
       "entry_last_rank": 1370528,
       "league_type": "s",
       "standings": null
@@ -804,7 +804,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 23071,
+      "entry_rank": 23116,
       "entry_last_rank": 45769,
       "league_type": "s",
       "standings": null
@@ -893,8 +893,8 @@
           "entry": 1813159,
           "entry_name": "Manda Bathram",
           "player_name": "Vishwas N",
-          "event_total": 60,
-          "total": 421,
+          "event_total": 62,
+          "total": 423,
           "is_you": false
         },
         {
@@ -938,7 +938,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 117406,
+      "entry_rank": 118833,
       "entry_last_rank": 824148,
       "league_type": "s",
       "standings": null
