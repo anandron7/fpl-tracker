@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-20T14:16:56.243455+00:00",
+  "updated_at_utc": "2026-10-20T19:12:32.223544+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 487,
-    "rank": 748441,
+    "rank": 748438,
     "event_points": 83,
-    "event_rank": 336541
+    "event_rank": 336539
   },
   "gameweek": {
     "current": 7,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 42,
       "form": "6.0",
-      "selected_by_percent": "44.2"
+      "selected_by_percent": "44.3"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 44,
       "form": "7.5",
-      "selected_by_percent": "53.7"
+      "selected_by_percent": "53.8"
     },
     {
       "player_id": 115,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 59,
       "form": "10.5",
-      "selected_by_percent": "40.9"
+      "selected_by_percent": "41.0"
     },
     {
       "player_id": 449,
@@ -147,7 +147,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 41,
-      "form": "6.0",
+      "form": "8.0",
       "selected_by_percent": "20.3"
     },
     {
@@ -177,9 +177,9 @@
       "captain": true,
       "vice_captain": false,
       "multiplier": 2,
-      "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
-      "chance_of_playing_next_round": 75,
+      "status": "a",
+      "news": "",
+      "chance_of_playing_next_round": 100,
       "season_points": 58,
       "form": "9.5",
       "selected_by_percent": "76.7"
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "6.5",
-      "selected_by_percent": "9.7"
+      "selected_by_percent": "9.8"
     },
     {
       "player_id": 497,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 0,
       "form": "0.0",
-      "selected_by_percent": "16.6"
+      "selected_by_percent": "16.5"
     },
     {
       "player_id": 286,
@@ -554,7 +554,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 748389,
+      "entry_rank": 748386,
       "entry_last_rank": 1370266,
       "league_type": "s",
       "standings": null
@@ -562,7 +562,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 748441,
+      "entry_rank": 748438,
       "entry_last_rank": 1370528,
       "league_type": "s",
       "standings": null
@@ -938,7 +938,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 168291,
+      "entry_rank": 168290,
       "entry_last_rank": 824148,
       "league_type": "s",
       "standings": null
