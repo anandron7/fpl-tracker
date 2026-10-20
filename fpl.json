@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-19T20:33:56.891468+00:00",
+  "updated_at_utc": "2026-10-20T00:18:06.777263+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 487,
-    "rank": 689035,
+    "rank": 697465,
     "event_points": 83,
-    "event_rank": 242848
+    "event_rank": 256101
   },
   "gameweek": {
     "current": 7,
@@ -18,9 +18,9 @@
       "event": 7,
       "points": 83,
       "total_points": 487,
-      "rank": 215665,
-      "rank_sort": 219856,
-      "overall_rank": 669301,
+      "rank": 256103,
+      "rank_sort": 260990,
+      "overall_rank": 697465,
       "percentile_rank": 5,
       "overall_rank_percentage": "6",
       "bank": 6,
@@ -63,14 +63,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 44,
       "form": "7.5",
-      "selected_by_percent": "53.6"
+      "selected_by_percent": "53.7"
     },
     {
       "player_id": 115,
       "name": "De Cuyper",
       "club": "BHA",
       "position": "DEF",
-      "price": 5.2,
+      "price": 5.3,
       "squad_position": 3,
       "captain": false,
       "vice_captain": false,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 59,
       "form": "10.5",
-      "selected_by_percent": "40.7"
+      "selected_by_percent": "40.8"
     },
     {
       "player_id": 449,
@@ -104,7 +104,7 @@
       "name": "Rogers",
       "club": "CHE",
       "position": "MID",
-      "price": 7.9,
+      "price": 8.0,
       "squad_position": 5,
       "captain": false,
       "vice_captain": false,
@@ -114,14 +114,14 @@
       "chance_of_playing_next_round": null,
       "season_points": 40,
       "form": "5.5",
-      "selected_by_percent": "47.8"
+      "selected_by_percent": "47.9"
     },
     {
       "player_id": 124,
       "name": "Groß",
       "club": "BHA",
       "position": "MID",
-      "price": 6.1,
+      "price": 6.2,
       "squad_position": 6,
       "captain": false,
       "vice_captain": false,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "6.0",
-      "selected_by_percent": "20.1"
+      "selected_by_percent": "20.2"
     },
     {
       "player_id": 12,
@@ -394,9 +394,9 @@
       "event": 7,
       "points": 83,
       "total_points": 487,
-      "rank": 215665,
-      "rank_sort": 219856,
-      "overall_rank": 669301,
+      "rank": 256103,
+      "rank_sort": 260990,
+      "overall_rank": 697465,
       "percentile_rank": 5,
       "overall_rank_percentage": "6",
       "bank": 6,
@@ -538,7 +538,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 126459,
+      "entry_rank": 127926,
       "entry_last_rank": 240702,
       "league_type": "s",
       "standings": null
@@ -546,7 +546,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 23643,
+      "entry_rank": 23992,
       "entry_last_rank": 45628,
       "league_type": "s",
       "standings": null
@@ -554,7 +554,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 688999,
+      "entry_rank": 697428,
       "entry_last_rank": 1370266,
       "league_type": "s",
       "standings": null
@@ -562,7 +562,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 689035,
+      "entry_rank": 697465,
       "entry_last_rank": 1370528,
       "league_type": "s",
       "standings": null
@@ -603,6 +603,15 @@
         },
         {
           "rank": 4,
+          "entry": 2284167,
+          "entry_name": "Appatakkar FC",
+          "player_name": "Gopalakrishnan Shanker",
+          "event_total": 81,
+          "total": 509,
+          "is_you": false
+        },
+        {
+          "rank": 5,
           "entry": 2524198,
           "entry_name": "citizen",
           "player_name": "srinath tm",
@@ -611,20 +620,11 @@
           "is_you": false
         },
         {
-          "rank": 5,
+          "rank": 6,
           "entry": 8766928,
           "entry_name": "Bruno dos tres",
           "player_name": "Sahil Asif",
           "event_total": 68,
-          "total": 507,
-          "is_you": false
-        },
-        {
-          "rank": 6,
-          "entry": 2284167,
-          "entry_name": "Appatakkar FC",
-          "player_name": "Gopalakrishnan Shanker",
-          "event_total": 79,
           "total": 507,
           "is_you": false
         },
@@ -804,7 +804,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 23720,
+      "entry_rank": 24070,
       "entry_last_rank": 45769,
       "league_type": "s",
       "standings": null
@@ -866,8 +866,8 @@
           "entry": 679012,
           "entry_name": "deft_SAF",
           "player_name": "vignesh dasari",
-          "event_total": 80,
-          "total": 464,
+          "event_total": 82,
+          "total": 466,
           "is_you": false
         },
         {
@@ -875,8 +875,8 @@
           "entry": 1287879,
           "entry_name": "Bengalingham",
           "player_name": "Nandini Ghosh",
-          "event_total": 52,
-          "total": 439,
+          "event_total": 54,
+          "total": 441,
           "is_you": false
         },
         {
@@ -902,8 +902,8 @@
           "entry": 5571754,
           "entry_name": "LORDBSR XI",
           "player_name": "Bhargav Sundararajan",
-          "event_total": 45,
-          "total": 421,
+          "event_total": 47,
+          "total": 423,
           "is_you": false
         },
         {
@@ -938,7 +938,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 126337,
+      "entry_rank": 130595,
       "entry_last_rank": 824148,
       "league_type": "s",
       "standings": null
