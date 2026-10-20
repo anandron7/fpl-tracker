@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-20T19:12:32.223544+00:00",
+  "updated_at_utc": "2026-10-20T23:50:41.996385+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "8.0",
-      "selected_by_percent": "20.3"
+      "selected_by_percent": "20.4"
     },
     {
       "player_id": 12,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "2.5",
-      "selected_by_percent": "16.8"
+      "selected_by_percent": "16.7"
     },
     {
       "player_id": 411,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 58,
       "form": "9.5",
-      "selected_by_percent": "76.7"
+      "selected_by_percent": "76.8"
     },
     {
       "player_id": 165,
@@ -774,19 +774,19 @@
         },
         {
           "rank": 23,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 72,
+          "entry": 995057,
+          "entry_name": "Project Haal Mary",
+          "player_name": "Vignesh Ramachandran",
+          "event_total": 78,
           "total": 412,
           "is_you": false
         },
         {
           "rank": 23,
-          "entry": 995057,
-          "entry_name": "Project Haal Mary",
-          "player_name": "Vignesh Ramachandran",
-          "event_total": 78,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 72,
           "total": 412,
           "is_you": false
         },
