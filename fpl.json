@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-20T00:18:06.777263+00:00",
+  "updated_at_utc": "2026-10-20T08:27:55.649029+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 487,
     "rank": 697465,
     "event_points": 83,
-    "event_rank": 256101
+    "event_rank": 256103
   },
   "gameweek": {
     "current": 7,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 42,
       "form": "6.0",
-      "selected_by_percent": "44.1"
+      "selected_by_percent": "44.2"
     },
     {
       "player_id": 8,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 59,
       "form": "10.5",
-      "selected_by_percent": "40.8"
+      "selected_by_percent": "40.9"
     },
     {
       "player_id": 449,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 35,
       "form": "2.0",
-      "selected_by_percent": "20.4"
+      "selected_by_percent": "20.5"
     },
     {
       "player_id": 40,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 58,
       "form": "5.5",
-      "selected_by_percent": "45.1"
+      "selected_by_percent": "45.2"
     },
     {
       "player_id": 427,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "6.5",
-      "selected_by_percent": "9.6"
+      "selected_by_percent": "9.7"
     },
     {
       "player_id": 497,
@@ -756,19 +756,19 @@
         },
         {
           "rank": 21,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 72,
+          "entry": 995057,
+          "entry_name": "Project Haal Mary",
+          "player_name": "Vignesh Ramachandran",
+          "event_total": 78,
           "total": 412,
           "is_you": false
         },
         {
           "rank": 21,
-          "entry": 995057,
-          "entry_name": "Project Haal Mary",
-          "player_name": "Vignesh Ramachandran",
-          "event_total": 78,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 72,
           "total": 412,
           "is_you": false
         },
@@ -918,7 +918,7 @@
         {
           "rank": 12,
           "entry": 7522694,
-          "entry_name": "Pending Moderation",
+          "entry_name": "akuka",
           "player_name": "Akuka Belluci",
           "event_total": 30,
           "total": 374,
