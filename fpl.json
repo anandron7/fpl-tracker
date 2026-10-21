@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-21T17:08:09.012158+00:00",
+  "updated_at_utc": "2026-10-21T21:38:55.845254+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 487,
-    "rank": 748436,
+    "rank": 748435,
     "event_points": 83,
-    "event_rank": 336538
+    "event_rank": 336537
   },
   "gameweek": {
     "current": 7,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 59,
       "form": "10.5",
-      "selected_by_percent": "41.1"
+      "selected_by_percent": "41.2"
     },
     {
       "player_id": 449,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 40,
       "form": "5.5",
-      "selected_by_percent": "48.1"
+      "selected_by_percent": "48.2"
     },
     {
       "player_id": 124,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 58,
       "form": "5.5",
-      "selected_by_percent": "45.4"
+      "selected_by_percent": "45.5"
     },
     {
       "player_id": 427,
@@ -160,12 +160,12 @@
       "captain": false,
       "vice_captain": true,
       "multiplier": 1,
-      "status": "a",
-      "news": "",
-      "chance_of_playing_next_round": null,
+      "status": "d",
+      "news": "Thigh injury - 75% chance of playing",
+      "chance_of_playing_next_round": 75,
       "season_points": 37,
       "form": "2.5",
-      "selected_by_percent": "16.7"
+      "selected_by_percent": "16.5"
     },
     {
       "player_id": 411,
@@ -538,7 +538,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 136802,
+      "entry_rank": 136803,
       "entry_last_rank": 240702,
       "league_type": "s",
       "standings": null
@@ -554,7 +554,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 748384,
+      "entry_rank": 748383,
       "entry_last_rank": 1370266,
       "league_type": "s",
       "standings": null
@@ -562,7 +562,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 748436,
+      "entry_rank": 748435,
       "entry_last_rank": 1370528,
       "league_type": "s",
       "standings": null
@@ -774,19 +774,19 @@
         },
         {
           "rank": 23,
-          "entry": 995057,
-          "entry_name": "Project Haal Mary",
-          "player_name": "Vignesh Ramachandran",
-          "event_total": 78,
+          "entry": 1075587,
+          "entry_name": "FC Madipakkam",
+          "player_name": "Venkatesh-Adithya SHREEDHARAN",
+          "event_total": 72,
           "total": 412,
           "is_you": false
         },
         {
           "rank": 23,
-          "entry": 1075587,
-          "entry_name": "FC Madipakkam",
-          "player_name": "Venkatesh-Adithya SHREEDHARAN",
-          "event_total": 72,
+          "entry": 995057,
+          "entry_name": "Project Haal Mary",
+          "player_name": "Vignesh Ramachandran",
+          "event_total": 78,
           "total": 412,
           "is_you": false
         },
