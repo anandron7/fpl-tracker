@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-21T21:38:55.845254+00:00",
+  "updated_at_utc": "2026-10-22T04:38:32.027455+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 487,
-    "rank": 748435,
+    "rank": 748434,
     "event_points": 83,
     "event_rank": 336537
   },
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 44,
       "form": "7.5",
-      "selected_by_percent": "53.9"
+      "selected_by_percent": "54.0"
     },
     {
       "player_id": 115,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "8.0",
-      "selected_by_percent": "20.5"
+      "selected_by_percent": "20.6"
     },
     {
       "player_id": 12,
@@ -161,11 +161,11 @@
       "vice_captain": true,
       "multiplier": 1,
       "status": "d",
-      "news": "Thigh injury - 75% chance of playing",
-      "chance_of_playing_next_round": 75,
+      "news": "Thigh injury - 50% chance of playing",
+      "chance_of_playing_next_round": 50,
       "season_points": 37,
       "form": "2.5",
-      "selected_by_percent": "16.5"
+      "selected_by_percent": "16.3"
     },
     {
       "player_id": 411,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 58,
       "form": "9.5",
-      "selected_by_percent": "76.8"
+      "selected_by_percent": "76.9"
     },
     {
       "player_id": 165,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "6.5",
-      "selected_by_percent": "9.8"
+      "selected_by_percent": "9.9"
     },
     {
       "player_id": 497,
@@ -554,7 +554,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 748383,
+      "entry_rank": 748382,
       "entry_last_rank": 1370266,
       "league_type": "s",
       "standings": null
@@ -562,7 +562,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 748435,
+      "entry_rank": 748434,
       "entry_last_rank": 1370528,
       "league_type": "s",
       "standings": null
@@ -938,7 +938,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 168289,
+      "entry_rank": 168288,
       "entry_last_rank": 824148,
       "league_type": "s",
       "standings": null
