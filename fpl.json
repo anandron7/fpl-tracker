@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-25T20:47:32.714816+00:00",
+  "updated_at_utc": "2026-10-25T23:13:54.918956+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 522,
-    "rank": 1019398,
+    "rank": 1021202,
     "event_points": 35,
-    "event_rank": 7430430
+    "event_rank": 7447733
   },
   "gameweek": {
     "current": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "5.3",
-      "selected_by_percent": "53.4"
+      "selected_by_percent": "53.3"
     },
     {
       "player_id": 115,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 47,
       "form": "4.7",
-      "selected_by_percent": "72.1"
+      "selected_by_percent": "72.0"
     },
     {
       "player_id": 497,
@@ -562,7 +562,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 178223,
+      "entry_rank": 178366,
       "entry_last_rank": 136800,
       "league_type": "s",
       "standings": null
@@ -570,7 +570,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 34821,
+      "entry_rank": 34874,
       "entry_last_rank": 25564,
       "league_type": "s",
       "standings": null
@@ -578,7 +578,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1019210,
+      "entry_rank": 1021012,
       "entry_last_rank": 748389,
       "league_type": "s",
       "standings": null
@@ -586,7 +586,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1019398,
+      "entry_rank": 1021202,
       "entry_last_rank": 748441,
       "league_type": "s",
       "standings": null
@@ -819,8 +819,8 @@
           "entry": 4812899,
           "entry_name": "Fire �",
           "player_name": "Nitin Krishnan",
-          "event_total": 36,
-          "total": 424,
+          "event_total": 35,
+          "total": 423,
           "is_you": false
         }
       ]
@@ -828,7 +828,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 34919,
+      "entry_rank": 34972,
       "entry_last_rank": 25646,
       "league_type": "s",
       "standings": null
@@ -962,7 +962,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 626022,
+      "entry_rank": 629671,
       "entry_last_rank": 168291,
       "league_type": "s",
       "standings": null
