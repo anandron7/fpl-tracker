@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-27T00:24:11.647125+00:00",
+  "updated_at_utc": "2026-10-27T08:54:52.380278+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 527,
     "rank": 993115,
     "event_points": 40,
-    "event_rank": 7525318
+    "event_rank": 7525300
   },
   "gameweek": {
     "current": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "5.3",
-      "selected_by_percent": "52.5"
+      "selected_by_percent": "52.4"
     },
     {
       "player_id": 115,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 47,
       "form": "4.7",
-      "selected_by_percent": "70.9"
+      "selected_by_percent": "70.8"
     },
     {
       "player_id": 138,
@@ -562,7 +562,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 173702,
+      "entry_rank": 173701,
       "entry_last_rank": 136800,
       "league_type": "s",
       "standings": null
@@ -962,7 +962,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 577125,
+      "entry_rank": 577124,
       "entry_last_rank": 168291,
       "league_type": "s",
       "standings": null
