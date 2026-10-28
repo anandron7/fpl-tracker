@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-27T22:10:05.541388+00:00",
+  "updated_at_utc": "2026-10-28T05:35:27.163626+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 527,
-    "rank": 993111,
+    "rank": 993110,
     "event_points": 40,
-    "event_rank": 7525241
+    "event_rank": 7525237
   },
   "gameweek": {
     "current": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "5.3",
-      "selected_by_percent": "51.8"
+      "selected_by_percent": "51.7"
     },
     {
       "player_id": 115,
@@ -206,7 +206,7 @@
       "name": "Haaland",
       "club": "MCI",
       "position": "FWD",
-      "price": 15.7,
+      "price": 15.8,
       "squad_position": 11,
       "captain": true,
       "vice_captain": false,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 66,
       "form": "9.0",
-      "selected_by_percent": "78.1"
+      "selected_by_percent": "78.2"
     },
     {
       "player_id": 497,
@@ -240,7 +240,7 @@
       "name": "João Pedro",
       "club": "CHE",
       "position": "FWD",
-      "price": 7.9,
+      "price": 7.8,
       "squad_position": 13,
       "captain": false,
       "vice_captain": false,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 47,
       "form": "4.7",
-      "selected_by_percent": "66.9"
+      "selected_by_percent": "65.9"
     },
     {
       "player_id": 138,
@@ -578,7 +578,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 992947,
+      "entry_rank": 992946,
       "entry_last_rank": 748389,
       "league_type": "s",
       "standings": null
@@ -586,7 +586,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 993111,
+      "entry_rank": 993110,
       "entry_last_rank": 748441,
       "league_type": "s",
       "standings": null
@@ -962,7 +962,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 577120,
+      "entry_rank": 577119,
       "entry_last_rank": 168291,
       "league_type": "s",
       "standings": null
