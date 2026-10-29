@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-29T09:53:33.231297+00:00",
+  "updated_at_utc": "2026-10-29T18:26:24.079667+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 527,
-    "rank": 993107,
+    "rank": 993108,
     "event_points": 40,
-    "event_rank": 7525177
+    "event_rank": 7525133
   },
   "gameweek": {
     "current": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "5.3",
-      "selected_by_percent": "51.0"
+      "selected_by_percent": "50.5"
     },
     {
       "player_id": 115,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "4.0",
-      "selected_by_percent": "50.2"
+      "selected_by_percent": "50.3"
     },
     {
       "player_id": 124,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 58,
       "form": "3.7",
-      "selected_by_percent": "46.2"
+      "selected_by_percent": "46.1"
     },
     {
       "player_id": 427,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 47,
       "form": "4.7",
-      "selected_by_percent": "62.6"
+      "selected_by_percent": "61.0"
     },
     {
       "player_id": 138,
@@ -578,7 +578,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 992943,
+      "entry_rank": 992944,
       "entry_last_rank": 748389,
       "league_type": "s",
       "standings": null
@@ -586,7 +586,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 993107,
+      "entry_rank": 993108,
       "entry_last_rank": 748441,
       "league_type": "s",
       "standings": null
@@ -962,7 +962,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 577118,
+      "entry_rank": 577113,
       "entry_last_rank": 168291,
       "league_type": "s",
       "standings": null
