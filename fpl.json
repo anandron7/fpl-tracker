@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-29T18:26:24.079667+00:00",
+  "updated_at_utc": "2026-10-30T00:56:40.230620+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 527,
     "rank": 993108,
     "event_points": 40,
-    "event_rank": 7525133
+    "event_rank": 7525119
   },
   "gameweek": {
     "current": 8,
@@ -53,7 +53,7 @@
       "name": "Calafiori",
       "club": "ARS",
       "position": "DEF",
-      "price": 6.0,
+      "price": 5.9,
       "squad_position": 2,
       "captain": false,
       "vice_captain": false,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "5.3",
-      "selected_by_percent": "50.5"
+      "selected_by_percent": "50.2"
     },
     {
       "player_id": 115,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 35,
       "form": "3.0",
-      "selected_by_percent": "7.2"
+      "selected_by_percent": "7.3"
     },
     {
       "player_id": 449,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 58,
       "form": "3.7",
-      "selected_by_percent": "46.1"
+      "selected_by_percent": "46.0"
     },
     {
       "player_id": 427,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 43,
       "form": "4.0",
-      "selected_by_percent": "9.8"
+      "selected_by_percent": "9.9"
     },
     {
       "player_id": 154,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 66,
       "form": "9.0",
-      "selected_by_percent": "78.3"
+      "selected_by_percent": "78.4"
     },
     {
       "player_id": 497,
@@ -233,7 +233,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 0,
       "form": "0.0",
-      "selected_by_percent": "16.0"
+      "selected_by_percent": "15.9"
     },
     {
       "player_id": 165,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 47,
       "form": "4.7",
-      "selected_by_percent": "61.0"
+      "selected_by_percent": "59.8"
     },
     {
       "player_id": 138,
@@ -562,7 +562,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 173705,
+      "entry_rank": 173706,
       "entry_last_rank": 136800,
       "league_type": "s",
       "standings": null
@@ -962,7 +962,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 577113,
+      "entry_rank": 577111,
       "entry_last_rank": 168291,
       "league_type": "s",
       "standings": null
