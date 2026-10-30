@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-30T00:56:40.230620+00:00",
+  "updated_at_utc": "2026-10-30T09:56:31.210351+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 527,
-    "rank": 993108,
+    "rank": 993107,
     "event_points": 40,
-    "event_rank": 7525119
+    "event_rank": 7525096
   },
   "gameweek": {
     "current": 8,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 49,
       "form": "6.3",
-      "selected_by_percent": "45.7"
+      "selected_by_percent": "45.6"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "5.3",
-      "selected_by_percent": "50.2"
+      "selected_by_percent": "49.8"
     },
     {
       "player_id": 115,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 41,
       "form": "4.0",
-      "selected_by_percent": "50.3"
+      "selected_by_percent": "50.4"
     },
     {
       "player_id": 124,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 43,
       "form": "6.0",
-      "selected_by_percent": "21.4"
+      "selected_by_percent": "21.3"
     },
     {
       "player_id": 286,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": 0,
       "season_points": 47,
       "form": "4.7",
-      "selected_by_percent": "59.8"
+      "selected_by_percent": "58.4"
     },
     {
       "player_id": 138,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 43,
       "form": "5.0",
-      "selected_by_percent": "10.2"
+      "selected_by_percent": "10.1"
     },
     {
       "player_id": 305,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 28,
       "form": "1.0",
-      "selected_by_percent": "7.2"
+      "selected_by_percent": "7.1"
     }
   ],
   "chips": [
@@ -578,7 +578,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 992944,
+      "entry_rank": 992943,
       "entry_last_rank": 748389,
       "league_type": "s",
       "standings": null
@@ -586,7 +586,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 993108,
+      "entry_rank": 993107,
       "entry_last_rank": 748441,
       "league_type": "s",
       "standings": null
@@ -962,7 +962,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 577111,
+      "entry_rank": 577110,
       "entry_last_rank": 168291,
       "league_type": "s",
       "standings": null
