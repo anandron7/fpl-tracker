@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-01T05:57:04.281482+00:00",
+  "updated_at_utc": "2026-11-01T13:15:40.583992+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 581,
-    "rank": 661234,
+    "rank": 661232,
     "event_points": 54,
-    "event_rank": 763211
+    "event_rank": 763207
   },
   "gameweek": {
     "current": 9,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 40,
       "form": "2.2",
-      "selected_by_percent": "20.4"
+      "selected_by_percent": "20.3"
     },
     {
       "player_id": 112,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 53,
       "form": "7.2",
-      "selected_by_percent": "9.8"
+      "selected_by_percent": "10.0"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 50,
       "form": "5.2",
-      "selected_by_percent": "51.5"
+      "selected_by_percent": "51.6"
     },
     {
       "player_id": 427,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 44,
       "form": "4.8",
-      "selected_by_percent": "21.0"
+      "selected_by_percent": "20.9"
     },
     {
       "player_id": 286,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "4.2",
-      "selected_by_percent": "27.6"
+      "selected_by_percent": "27.7"
     },
     {
       "player_id": 124,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 60,
       "form": "3.2",
-      "selected_by_percent": "46.7"
+      "selected_by_percent": "46.8"
     },
     {
       "player_id": 411,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 52,
       "form": "8.5",
-      "selected_by_percent": "15.7"
+      "selected_by_percent": "15.9"
     },
     {
       "player_id": 497,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 69,
       "form": "7.8",
-      "selected_by_percent": "44.1"
+      "selected_by_percent": "44.2"
     },
     {
       "player_id": 138,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 45,
       "form": "4.2",
-      "selected_by_percent": "10.3"
+      "selected_by_percent": "10.2"
     },
     {
       "player_id": 8,
@@ -284,7 +284,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 45,
       "form": "4.0",
-      "selected_by_percent": "47.9"
+      "selected_by_percent": "47.8"
     }
   ],
   "chips": [
@@ -595,7 +595,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 118839,
+      "entry_rank": 118840,
       "entry_last_rank": 173699,
       "league_type": "s",
       "standings": null
@@ -611,7 +611,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 661149,
+      "entry_rank": 661147,
       "entry_last_rank": 992952,
       "league_type": "s",
       "standings": null
@@ -619,7 +619,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 661234,
+      "entry_rank": 661232,
       "entry_last_rank": 993116,
       "league_type": "s",
       "standings": null
@@ -995,7 +995,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 279621,
+      "entry_rank": 279620,
       "entry_last_rank": 577128,
       "league_type": "s",
       "standings": null
