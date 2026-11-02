@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-02T00:39:52.954295+00:00",
+  "updated_at_utc": "2026-11-02T10:56:49.993435+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 586,
-    "rank": 813778,
+    "rank": 792431,
     "event_points": 59,
-    "event_rank": 1373289
+    "event_rank": 1265425
   },
   "gameweek": {
     "current": 9,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 54,
       "form": "6.0",
-      "selected_by_percent": "46.4"
+      "selected_by_percent": "46.5"
     },
     {
       "player_id": 277,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 40,
       "form": "2.2",
-      "selected_by_percent": "20.3"
+      "selected_by_percent": "20.2"
     },
     {
       "player_id": 112,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 53,
       "form": "7.2",
-      "selected_by_percent": "10.4"
+      "selected_by_percent": "10.6"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 50,
       "form": "5.2",
-      "selected_by_percent": "51.9"
+      "selected_by_percent": "52.0"
     },
     {
       "player_id": 427,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "4.2",
-      "selected_by_percent": "27.8"
+      "selected_by_percent": "27.9"
     },
     {
       "player_id": 124,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 52,
       "form": "8.5",
-      "selected_by_percent": "16.7"
+      "selected_by_percent": "16.9"
     },
     {
       "player_id": 497,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 69,
       "form": "7.8",
-      "selected_by_percent": "44.5"
+      "selected_by_percent": "44.6"
     },
     {
       "player_id": 138,
@@ -282,8 +282,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "season_points": 53,
-      "form": "6.0",
+      "season_points": 51,
+      "form": "5.5",
       "selected_by_percent": "47.9"
     }
   ],
@@ -595,7 +595,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 146008,
+      "entry_rank": 142151,
       "entry_last_rank": 173699,
       "league_type": "s",
       "standings": null
@@ -603,7 +603,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 27887,
+      "entry_rank": 27198,
       "entry_last_rank": 33738,
       "league_type": "s",
       "standings": null
@@ -611,7 +611,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 813638,
+      "entry_rank": 792303,
       "entry_last_rank": 992952,
       "league_type": "s",
       "standings": null
@@ -619,7 +619,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 813778,
+      "entry_rank": 792431,
       "entry_last_rank": 993116,
       "league_type": "s",
       "standings": null
@@ -645,8 +645,8 @@
           "entry": 2524198,
           "entry_name": "citizen",
           "player_name": "srinath tm",
-          "event_total": 49,
-          "total": 619,
+          "event_total": 47,
+          "total": 617,
           "is_you": false
         },
         {
@@ -672,8 +672,8 @@
           "entry": 1211311,
           "entry_name": "No Salah",
           "player_name": "Ankur Khemani",
-          "event_total": 56,
-          "total": 605,
+          "event_total": 54,
+          "total": 603,
           "is_you": false
         },
         {
@@ -681,8 +681,8 @@
           "entry": 8766928,
           "entry_name": "Bruno dos tres",
           "player_name": "Sahil Asif",
-          "event_total": 53,
-          "total": 602,
+          "event_total": 51,
+          "total": 600,
           "is_you": false
         },
         {
@@ -717,8 +717,8 @@
           "entry": 1418774,
           "entry_name": "It's called Saka",
           "player_name": "Praveen Narayanan",
-          "event_total": 50,
-          "total": 573,
+          "event_total": 48,
+          "total": 571,
           "is_you": false
         },
         {
@@ -726,8 +726,8 @@
           "entry": 7073267,
           "entry_name": "Lyf gave me Lammens಄",
           "player_name": "Adharsh Nair",
-          "event_total": 59,
-          "total": 570,
+          "event_total": 57,
+          "total": 568,
           "is_you": false
         },
         {
@@ -750,20 +750,20 @@
         },
         {
           "rank": 14,
-          "entry": 4309681,
-          "entry_name": "Banter FC",
-          "player_name": "Manoj Krishnan",
-          "event_total": 63,
-          "total": 558,
-          "is_you": false
-        },
-        {
-          "rank": 15,
           "entry": 1665238,
           "entry_name": "Voetbal",
           "player_name": "Akshay Ramachandran",
           "event_total": 55,
           "total": 558,
+          "is_you": false
+        },
+        {
+          "rank": 15,
+          "entry": 4309681,
+          "entry_name": "Banter FC",
+          "player_name": "Manoj Krishnan",
+          "event_total": 61,
+          "total": 556,
           "is_you": false
         },
         {
@@ -780,8 +780,8 @@
           "entry": 889522,
           "entry_name": "Bwoah",
           "player_name": "Shreyas Padmanabhan",
-          "event_total": 50,
-          "total": 543,
+          "event_total": 48,
+          "total": 541,
           "is_you": false
         },
         {
@@ -843,8 +843,8 @@
           "entry": 8491589,
           "entry_name": "How Dalot can you go",
           "player_name": "muthu elango",
-          "event_total": 24,
-          "total": 509,
+          "event_total": 22,
+          "total": 507,
           "is_you": false
         },
         {
@@ -861,7 +861,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 27968,
+      "entry_rank": 27277,
       "entry_last_rank": 33832,
       "league_type": "s",
       "standings": null
@@ -914,8 +914,8 @@
           "entry": 689579,
           "entry_name": "Top4 FC",
           "player_name": "Ashwin Kalyana Kumar",
-          "event_total": 51,
-          "total": 583,
+          "event_total": 49,
+          "total": 581,
           "is_you": false
         },
         {
@@ -941,8 +941,8 @@
           "entry": 1577938,
           "entry_name": "Bale Puri",
           "player_name": "Aayush Dewan",
-          "event_total": 50,
-          "total": 521,
+          "event_total": 48,
+          "total": 519,
           "is_you": false
         },
         {
@@ -995,7 +995,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 455499,
+      "entry_rank": 432573,
       "entry_last_rank": 577128,
       "league_type": "s",
       "standings": null
