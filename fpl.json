@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-02T21:41:08.643786+00:00",
+  "updated_at_utc": "2026-11-03T06:42:53.307900+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,26 +8,26 @@
   },
   "overall": {
     "points": 588,
-    "rank": 802620,
+    "rank": 803127,
     "event_points": 61,
-    "event_rank": 1335535
+    "event_rank": 1344234
   },
   "gameweek": {
     "current": 9,
     "entry_history": {
       "event": 9,
-      "points": 59,
-      "total_points": 586,
-      "rank": 1373294,
-      "rank_sort": 1387629,
-      "overall_rank": 813780,
+      "points": 61,
+      "total_points": 588,
+      "rank": 1341424,
+      "rank_sort": 1356167,
+      "overall_rank": 802544,
       "percentile_rank": 15,
       "overall_rank_percentage": "7",
       "bank": 9,
       "value": 1017,
       "event_transfers": 2,
       "event_transfers_cost": 0,
-      "points_on_bench": 19
+      "points_on_bench": 17
     }
   },
   "squad": [
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 42,
       "form": "2.8",
-      "selected_by_percent": "20.2"
+      "selected_by_percent": "20.1"
     },
     {
       "player_id": 112,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 53,
       "form": "7.2",
-      "selected_by_percent": "10.8"
+      "selected_by_percent": "11.0"
     },
     {
       "player_id": 40,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 50,
       "form": "5.2",
-      "selected_by_percent": "52.1"
+      "selected_by_percent": "52.3"
     },
     {
       "player_id": 427,
@@ -131,7 +131,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 44,
       "form": "4.8",
-      "selected_by_percent": "20.6"
+      "selected_by_percent": "20.5"
     },
     {
       "player_id": 286,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 45,
       "form": "4.2",
-      "selected_by_percent": "27.9"
+      "selected_by_percent": "28.0"
     },
     {
       "player_id": 124,
@@ -182,7 +182,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 60,
       "form": "3.2",
-      "selected_by_percent": "46.8"
+      "selected_by_percent": "46.9"
     },
     {
       "player_id": 411,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 52,
       "form": "8.5",
-      "selected_by_percent": "17.3"
+      "selected_by_percent": "17.6"
     },
     {
       "player_id": 497,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 69,
       "form": "7.8",
-      "selected_by_percent": "44.7"
+      "selected_by_percent": "44.8"
     },
     {
       "player_id": 138,
@@ -422,18 +422,18 @@
     },
     {
       "event": 9,
-      "points": 59,
-      "total_points": 586,
-      "rank": 1373294,
-      "rank_sort": 1387629,
-      "overall_rank": 813780,
+      "points": 61,
+      "total_points": 588,
+      "rank": 1341424,
+      "rank_sort": 1356167,
+      "overall_rank": 802544,
       "percentile_rank": 15,
       "overall_rank_percentage": "7",
       "bank": 9,
       "value": 1017,
       "event_transfers": 2,
       "event_transfers_cost": 0,
-      "points_on_bench": 19
+      "points_on_bench": 17
     }
   ],
   "transfers": [
@@ -595,7 +595,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 143467,
+      "entry_rank": 143543,
       "entry_last_rank": 173699,
       "league_type": "s",
       "standings": null
@@ -603,7 +603,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 27584,
+      "entry_rank": 27598,
       "entry_last_rank": 33738,
       "league_type": "s",
       "standings": null
@@ -611,7 +611,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 802489,
+      "entry_rank": 802996,
       "entry_last_rank": 992952,
       "league_type": "s",
       "standings": null
@@ -619,7 +619,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 802620,
+      "entry_rank": 803127,
       "entry_last_rank": 993116,
       "league_type": "s",
       "standings": null
@@ -861,7 +861,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 27663,
+      "entry_rank": 27678,
       "entry_last_rank": 33832,
       "league_type": "s",
       "standings": null
@@ -923,8 +923,8 @@
           "entry": 1287879,
           "entry_name": "Bengalingham",
           "player_name": "Nandini Ghosh",
-          "event_total": 62,
-          "total": 579,
+          "event_total": 63,
+          "total": 580,
           "is_you": false
         },
         {
@@ -995,7 +995,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 433353,
+      "entry_rank": 434047,
       "entry_last_rank": 577128,
       "league_type": "s",
       "standings": null
