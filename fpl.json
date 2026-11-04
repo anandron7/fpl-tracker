@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-03T23:17:27.544135+00:00",
+  "updated_at_utc": "2026-11-04T06:10:38.149746+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 42,
       "form": "2.8",
-      "selected_by_percent": "19.9"
+      "selected_by_percent": "19.8"
     },
     {
       "player_id": 112,
@@ -104,7 +104,7 @@
       "name": "Rogers",
       "club": "CHE",
       "position": "MID",
-      "price": 8.1,
+      "price": 8.2,
       "squad_position": 5,
       "captain": false,
       "vice_captain": false,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 52,
       "form": "8.5",
-      "selected_by_percent": "18.1"
+      "selected_by_percent": "18.2"
     },
     {
       "player_id": 497,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 69,
       "form": "7.8",
-      "selected_by_percent": "45.0"
+      "selected_by_percent": "45.1"
     },
     {
       "player_id": 138,
