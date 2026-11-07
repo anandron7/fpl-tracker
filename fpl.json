@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-06T23:05:17.762827+00:00",
+  "updated_at_utc": "2026-11-07T05:54:09.352085+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 588,
-    "rank": 929142,
+    "rank": 929144,
     "event_points": 0,
-    "event_rank": 8869127
+    "event_rank": 8869887
   },
   "gameweek": {
     "current": 10,
@@ -18,11 +18,11 @@
       "event": 10,
       "points": 0,
       "total_points": 588,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 835442,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "rank": 8867653,
+      "rank_sort": 9333201,
+      "overall_rank": 929143,
+      "percentile_rank": 80,
+      "overall_rank_percentage": "8",
       "bank": 11,
       "value": 1022,
       "event_transfers": 1,
@@ -172,7 +172,7 @@
       "name": "Groß",
       "club": "BHA",
       "position": "MID",
-      "price": 6.2,
+      "price": 6.3,
       "squad_position": 9,
       "captain": false,
       "vice_captain": false,
@@ -206,7 +206,7 @@
       "name": "Evanilson",
       "club": "BOU",
       "position": "FWD",
-      "price": 6.4,
+      "price": 6.5,
       "squad_position": 11,
       "captain": false,
       "vice_captain": false,
@@ -439,11 +439,11 @@
       "event": 10,
       "points": 0,
       "total_points": 588,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 835442,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "rank": 8867653,
+      "rank_sort": 9333201,
+      "overall_rank": 929143,
+      "percentile_rank": 80,
+      "overall_rank_percentage": "8",
       "bank": 11,
       "value": 1022,
       "event_transfers": 1,
@@ -619,7 +619,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 162714,
+      "entry_rank": 162716,
       "entry_last_rank": 148610,
       "league_type": "s",
       "standings": null
@@ -635,7 +635,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 928919,
+      "entry_rank": 928921,
       "entry_last_rank": 835294,
       "league_type": "s",
       "standings": null
@@ -643,7 +643,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 929142,
+      "entry_rank": 929144,
       "entry_last_rank": 835442,
       "league_type": "s",
       "standings": null
@@ -1019,7 +1019,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 623003,
+      "entry_rank": 623004,
       "entry_last_rank": 469875,
       "league_type": "s",
       "standings": null
