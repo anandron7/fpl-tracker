@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-08T00:32:37.583531+00:00",
+  "updated_at_utc": "2026-11-08T10:14:24.013910+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 608,
     "rank": 1093535,
     "event_points": 20,
-    "event_rank": 7744186
+    "event_rank": 7744169
   },
   "gameweek": {
     "current": 10,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 60,
       "form": "6.0",
-      "selected_by_percent": "47.2"
+      "selected_by_percent": "47.3"
     },
     {
       "player_id": 8,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 37,
       "form": "4.8",
-      "selected_by_percent": "3.5"
+      "selected_by_percent": "3.6"
     },
     {
       "player_id": 112,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 57,
       "form": "6.6",
-      "selected_by_percent": "13.5"
+      "selected_by_percent": "13.6"
     },
     {
       "player_id": 115,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 69,
       "form": "6.2",
-      "selected_by_percent": "46.8"
+      "selected_by_percent": "46.9"
     },
     {
       "player_id": 40,
@@ -935,21 +935,21 @@
         },
         {
           "rank": 5,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 20,
-          "total": 608,
-          "is_you": true
-        },
-        {
-          "rank": 5,
           "entry": 1287879,
           "entry_name": "Bengalingham",
           "player_name": "Nandini Ghosh",
           "event_total": 28,
           "total": 608,
           "is_you": false
+        },
+        {
+          "rank": 5,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 20,
+          "total": 608,
+          "is_you": true
         },
         {
           "rank": 7,
@@ -1019,7 +1019,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 918474,
+      "entry_rank": 918473,
       "entry_last_rank": 469875,
       "league_type": "s",
       "standings": null
