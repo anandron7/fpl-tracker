@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-09T06:18:30.390646+00:00",
+  "updated_at_utc": "2026-11-09T19:45:36.888321+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,26 +8,26 @@
   },
   "overall": {
     "points": 642,
-    "rank": 1084102,
+    "rank": 1100589,
     "event_points": 54,
-    "event_rank": 5348289
+    "event_rank": 6077604
   },
   "gameweek": {
     "current": 10,
     "entry_history": {
       "event": 10,
-      "points": 20,
-      "total_points": 608,
-      "rank": 7733299,
-      "rank_sort": 7772610,
-      "overall_rank": 1093417,
-      "percentile_rank": 70,
+      "points": 54,
+      "total_points": 642,
+      "rank": 6077674,
+      "rank_sort": 6100457,
+      "overall_rank": 1100594,
+      "percentile_rank": 55,
       "overall_rank_percentage": "10",
       "bank": 11,
       "value": 1022,
       "event_transfers": 1,
       "event_transfers_cost": 0,
-      "points_on_bench": 2
+      "points_on_bench": 4
     }
   },
   "squad": [
@@ -45,7 +45,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 60,
-      "form": "6.0",
+      "form": "6.8",
       "selected_by_percent": "47.4"
     },
     {
@@ -62,7 +62,7 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "season_points": 57,
-      "form": "5.6",
+      "form": "4.8",
       "selected_by_percent": "48.7"
     },
     {
@@ -79,7 +79,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 40,
-      "form": "5.4",
+      "form": "6.8",
       "selected_by_percent": "3.6"
     },
     {
@@ -96,8 +96,8 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "season_points": 57,
-      "form": "6.6",
-      "selected_by_percent": "14.2"
+      "form": "7.5",
+      "selected_by_percent": "14.3"
     },
     {
       "player_id": 115,
@@ -113,8 +113,8 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 75,
-      "form": "7.4",
-      "selected_by_percent": "47.4"
+      "form": "5.5",
+      "selected_by_percent": "47.6"
     },
     {
       "player_id": 40,
@@ -130,7 +130,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 52,
-      "form": "4.6",
+      "form": "3.5",
       "selected_by_percent": "53.9"
     },
     {
@@ -147,8 +147,8 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 46,
-      "form": "4.2",
-      "selected_by_percent": "19.4"
+      "form": "3.2",
+      "selected_by_percent": "19.3"
     },
     {
       "player_id": 154,
@@ -164,8 +164,8 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "season_points": 47,
-      "form": "3.8",
-      "selected_by_percent": "28.5"
+      "form": "2.8",
+      "selected_by_percent": "28.4"
     },
     {
       "player_id": 124,
@@ -181,8 +181,8 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 70,
-      "form": "4.6",
-      "selected_by_percent": "47.8"
+      "form": "4.2",
+      "selected_by_percent": "47.9"
     },
     {
       "player_id": 411,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 70,
       "form": "6.2",
-      "selected_by_percent": "79.0"
+      "selected_by_percent": "78.9"
     },
     {
       "player_id": 79,
@@ -215,8 +215,8 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 61,
-      "form": "8.6",
-      "selected_by_percent": "23.0"
+      "form": "9.0",
+      "selected_by_percent": "23.3"
     },
     {
       "player_id": 497,
@@ -249,8 +249,8 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 47,
-      "form": "3.8",
-      "selected_by_percent": "10.0"
+      "form": "4.5",
+      "selected_by_percent": "9.9"
     },
     {
       "player_id": 286,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 48,
       "form": "3.4",
-      "selected_by_percent": "9.8"
+      "selected_by_percent": "9.7"
     },
     {
       "player_id": 277,
@@ -437,18 +437,18 @@
     },
     {
       "event": 10,
-      "points": 20,
-      "total_points": 608,
-      "rank": 7733299,
-      "rank_sort": 7772610,
-      "overall_rank": 1093417,
-      "percentile_rank": 70,
+      "points": 54,
+      "total_points": 642,
+      "rank": 6077674,
+      "rank_sort": 6100457,
+      "overall_rank": 1100594,
+      "percentile_rank": 55,
       "overall_rank_percentage": "10",
       "bank": 11,
       "value": 1022,
       "event_transfers": 1,
       "event_transfers_cost": 0,
-      "points_on_bench": 2
+      "points_on_bench": 4
     }
   ],
   "transfers": [
@@ -619,7 +619,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 188741,
+      "entry_rank": 191317,
       "entry_last_rank": 148610,
       "league_type": "s",
       "standings": null
@@ -627,7 +627,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 36542,
+      "entry_rank": 37103,
       "entry_last_rank": 28692,
       "league_type": "s",
       "standings": null
@@ -635,7 +635,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1083661,
+      "entry_rank": 1100130,
       "entry_last_rank": 835294,
       "league_type": "s",
       "standings": null
@@ -643,7 +643,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1084102,
+      "entry_rank": 1100589,
       "entry_last_rank": 835442,
       "league_type": "s",
       "standings": null
@@ -828,20 +828,20 @@
         },
         {
           "rank": 20,
+          "entry": 8491589,
+          "entry_name": "How Dalot can you go",
+          "player_name": "muthu elango",
+          "event_total": 66,
+          "total": 585,
+          "is_you": false
+        },
+        {
+          "rank": 21,
           "entry": 5097053,
           "entry_name": "The Sage Returns",
           "player_name": "Teja Kethineni",
           "event_total": 61,
           "total": 582,
-          "is_you": false
-        },
-        {
-          "rank": 21,
-          "entry": 8491589,
-          "entry_name": "How Dalot can you go",
-          "player_name": "muthu elango",
-          "event_total": 58,
-          "total": 577,
           "is_you": false
         },
         {
@@ -876,8 +876,8 @@
           "entry": 4812899,
           "entry_name": "Fire �",
           "player_name": "Nitin Krishnan",
-          "event_total": 67,
-          "total": 526,
+          "event_total": 70,
+          "total": 529,
           "is_you": false
         }
       ]
@@ -885,7 +885,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 36649,
+      "entry_rank": 37213,
       "entry_last_rank": 28773,
       "league_type": "s",
       "standings": null
@@ -1001,8 +1001,8 @@
           "entry": 7522694,
           "entry_name": "Pending Moderation",
           "player_name": "Akuka Belluci",
-          "event_total": 31,
-          "total": 501,
+          "event_total": 38,
+          "total": 508,
           "is_you": false
         },
         {
@@ -1010,8 +1010,8 @@
           "entry": 9913278,
           "entry_name": "Nachi",
           "player_name": "Nachiappan Karuppiah",
-          "event_total": 24,
-          "total": 422,
+          "event_total": 54,
+          "total": 452,
           "is_you": false
         }
       ]
@@ -1019,7 +1019,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 890767,
+      "entry_rank": 918321,
       "entry_last_rank": 469875,
       "league_type": "s",
       "standings": null
