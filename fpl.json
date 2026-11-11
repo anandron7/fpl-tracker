@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-11T10:50:20.974570+00:00",
+  "updated_at_utc": "2026-11-11T19:33:09.993912+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 642,
-    "rank": 1100586,
+    "rank": 1100584,
     "event_points": 54,
-    "event_rank": 6077563
+    "event_rank": 6077451
   },
   "gameweek": {
     "current": 10,
@@ -80,7 +80,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 40,
       "form": "6.8",
-      "selected_by_percent": "3.6"
+      "selected_by_percent": "3.7"
     },
     {
       "player_id": 112,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 57,
       "form": "7.5",
-      "selected_by_percent": "14.5"
+      "selected_by_percent": "14.6"
     },
     {
       "player_id": 115,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 46,
       "form": "3.2",
-      "selected_by_percent": "19.2"
+      "selected_by_percent": "19.1"
     },
     {
       "player_id": 154,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 61,
       "form": "9.0",
-      "selected_by_percent": "23.6"
+      "selected_by_percent": "23.7"
     },
     {
       "player_id": 497,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 47,
       "form": "4.5",
-      "selected_by_percent": "9.9"
+      "selected_by_percent": "9.8"
     },
     {
       "player_id": 286,
@@ -267,7 +267,7 @@
       "chance_of_playing_next_round": 75,
       "season_points": 48,
       "form": "2.8",
-      "selected_by_percent": "9.7"
+      "selected_by_percent": "9.6"
     },
     {
       "player_id": 277,
@@ -619,7 +619,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 191319,
+      "entry_rank": 191317,
       "entry_last_rank": 148610,
       "league_type": "s",
       "standings": null
@@ -635,7 +635,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1100127,
+      "entry_rank": 1100125,
       "entry_last_rank": 835294,
       "league_type": "s",
       "standings": null
@@ -643,7 +643,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1100586,
+      "entry_rank": 1100584,
       "entry_last_rank": 835442,
       "league_type": "s",
       "standings": null
@@ -999,7 +999,7 @@
         {
           "rank": 12,
           "entry": 7522694,
-          "entry_name": "Pending Moderation",
+          "entry_name": "akuka",
           "player_name": "Akuka Belluci",
           "event_total": 38,
           "total": 508,
@@ -1019,7 +1019,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 918316,
+      "entry_rank": 918313,
       "entry_last_rank": 469875,
       "league_type": "s",
       "standings": null
