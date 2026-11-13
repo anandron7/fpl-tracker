@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-12T19:51:58.270441+00:00",
+  "updated_at_utc": "2026-11-13T01:47:38.940729+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -10,7 +10,7 @@
     "points": 642,
     "rank": 1100580,
     "event_points": 54,
-    "event_rank": 6077392
+    "event_rank": 6077387
   },
   "gameweek": {
     "current": 10,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 57,
       "form": "7.5",
-      "selected_by_percent": "14.6"
+      "selected_by_percent": "14.7"
     },
     {
       "player_id": 115,
@@ -1019,7 +1019,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 918312,
+      "entry_rank": 918310,
       "entry_last_rank": 469875,
       "league_type": "s",
       "standings": null
