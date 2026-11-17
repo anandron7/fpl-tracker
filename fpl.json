@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-17T03:47:54.272500+00:00",
+  "updated_at_utc": "2026-11-17T15:55:35.139672+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,9 +8,9 @@
   },
   "overall": {
     "points": 642,
-    "rank": 1100577,
+    "rank": 1100575,
     "event_points": 54,
-    "event_rank": 6077314
+    "event_rank": 6077305
   },
   "gameweek": {
     "current": 10,
@@ -45,7 +45,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 60,
-      "form": "6.8",
+      "form": "6.0",
       "selected_by_percent": "47.6"
     },
     {
@@ -62,7 +62,7 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "season_points": 57,
-      "form": "4.8",
+      "form": "4.3",
       "selected_by_percent": "48.7"
     },
     {
@@ -79,7 +79,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 40,
-      "form": "6.8",
+      "form": "6.3",
       "selected_by_percent": "3.7"
     },
     {
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 57,
       "form": "7.5",
-      "selected_by_percent": "14.9"
+      "selected_by_percent": "15.0"
     },
     {
       "player_id": 115,
@@ -113,7 +113,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 75,
-      "form": "5.5",
+      "form": "5.3",
       "selected_by_percent": "48.0"
     },
     {
@@ -147,7 +147,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 46,
-      "form": "3.2",
+      "form": "1.7",
       "selected_by_percent": "19.0"
     },
     {
@@ -181,7 +181,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 70,
-      "form": "4.2",
+      "form": "4.0",
       "selected_by_percent": "48.2"
     },
     {
@@ -215,7 +215,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 61,
-      "form": "9.0",
+      "form": "8.0",
       "selected_by_percent": "24.1"
     },
     {
@@ -249,7 +249,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "season_points": 47,
-      "form": "4.5",
+      "form": "2.0",
       "selected_by_percent": "9.8"
     },
     {
@@ -619,7 +619,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 191318,
+      "entry_rank": 191320,
       "entry_last_rank": 148610,
       "league_type": "s",
       "standings": null
@@ -635,7 +635,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1100118,
+      "entry_rank": 1100116,
       "entry_last_rank": 835294,
       "league_type": "s",
       "standings": null
@@ -643,7 +643,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1100577,
+      "entry_rank": 1100575,
       "entry_last_rank": 835442,
       "league_type": "s",
       "standings": null
@@ -1019,7 +1019,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 918307,
+      "entry_rank": 918306,
       "entry_last_rank": 469875,
       "league_type": "s",
       "standings": null
