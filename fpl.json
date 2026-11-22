@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T19:09:57.408543+00:00",
+  "updated_at_utc": "2026-11-22T01:14:33.200992+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,21 +8,21 @@
   },
   "overall": {
     "points": 675,
-    "rank": 929127,
+    "rank": 925961,
     "event_points": 33,
-    "event_rank": 1229963
+    "event_rank": 1194438
   },
   "gameweek": {
     "current": 11,
     "entry_history": {
       "event": 11,
-      "points": 0,
-      "total_points": 642,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 1100594,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 33,
+      "total_points": 675,
+      "rank": 1194438,
+      "rank_sort": 1221930,
+      "overall_rank": 925961,
+      "percentile_rank": 15,
+      "overall_rank_percentage": "8",
       "bank": 11,
       "value": 1025,
       "event_transfers": 0,
@@ -42,11 +42,11 @@
       "vice_captain": false,
       "multiplier": 1,
       "status": "d",
-      "news": "Unspecified injury - 75% chance of playing",
+      "news": "Shoulder injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
       "season_points": 61,
       "form": "4.8",
-      "selected_by_percent": "47.8"
+      "selected_by_percent": "47.5"
     },
     {
       "player_id": 8,
@@ -87,7 +87,7 @@
       "name": "Van Hecke",
       "club": "TOT",
       "position": "DEF",
-      "price": 5.1,
+      "price": 5.2,
       "squad_position": 4,
       "captain": false,
       "vice_captain": false,
@@ -97,7 +97,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 63,
       "form": "8.0",
-      "selected_by_percent": "18.3"
+      "selected_by_percent": "18.4"
     },
     {
       "player_id": 115,
@@ -121,7 +121,7 @@
       "name": "Rogers",
       "club": "CHE",
       "position": "MID",
-      "price": 8.2,
+      "price": 8.3,
       "squad_position": 6,
       "captain": false,
       "vice_captain": false,
@@ -199,14 +199,14 @@
       "chance_of_playing_next_round": 100,
       "season_points": 72,
       "form": "3.5",
-      "selected_by_percent": "78.6"
+      "selected_by_percent": "78.5"
     },
     {
       "player_id": 79,
       "name": "Evanilson",
       "club": "BOU",
       "position": "FWD",
-      "price": 6.5,
+      "price": 6.6,
       "squad_position": 11,
       "captain": false,
       "vice_captain": false,
@@ -216,7 +216,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 67,
       "form": "7.5",
-      "selected_by_percent": "26.2"
+      "selected_by_percent": "26.4"
     },
     {
       "player_id": 497,
@@ -257,7 +257,7 @@
       "name": "Belloumi",
       "club": "HUL",
       "position": "MID",
-      "price": 5.3,
+      "price": 5.2,
       "squad_position": 14,
       "captain": false,
       "vice_captain": false,
@@ -452,13 +452,13 @@
     },
     {
       "event": 11,
-      "points": 0,
-      "total_points": 642,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 1100594,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 33,
+      "total_points": 675,
+      "rank": 1194438,
+      "rank_sort": 1221930,
+      "overall_rank": 925961,
+      "percentile_rank": 15,
+      "overall_rank_percentage": "8",
       "bank": 11,
       "value": 1025,
       "event_transfers": 0,
@@ -634,7 +634,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 163680,
+      "entry_rank": 163187,
       "entry_last_rank": 191316,
       "league_type": "s",
       "standings": null
@@ -642,7 +642,7 @@
     {
       "id": 249,
       "name": "USA",
-      "entry_rank": 31402,
+      "entry_rank": 31295,
       "entry_last_rank": 37103,
       "league_type": "s",
       "standings": null
@@ -650,7 +650,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 928804,
+      "entry_rank": 925640,
       "entry_last_rank": 1100135,
       "league_type": "s",
       "standings": null
@@ -658,7 +658,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 929127,
+      "entry_rank": 925961,
       "entry_last_rank": 1100594,
       "league_type": "s",
       "standings": null
@@ -681,19 +681,19 @@
         },
         {
           "rank": 2,
-          "entry": 1346361,
-          "entry_name": "Polarising Pipsqueak",
-          "player_name": "Aravind Gopalakrishnan",
-          "event_total": 21,
-          "total": 704,
+          "entry": 2524198,
+          "entry_name": "citizen",
+          "player_name": "srinath tm",
+          "event_total": 29,
+          "total": 705,
           "is_you": false
         },
         {
           "rank": 3,
-          "entry": 2524198,
-          "entry_name": "citizen",
-          "player_name": "srinath tm",
-          "event_total": 28,
+          "entry": 1346361,
+          "entry_name": "Polarising Pipsqueak",
+          "player_name": "Aravind Gopalakrishnan",
+          "event_total": 21,
           "total": 704,
           "is_you": false
         },
@@ -726,21 +726,21 @@
         },
         {
           "rank": 7,
-          "entry": 1992354,
-          "entry_name": "Tosin the Neto",
-          "player_name": "Anubhav Siddharth",
-          "event_total": 22,
-          "total": 675,
-          "is_you": false
-        },
-        {
-          "rank": 7,
           "entry": 2521217,
           "entry_name": "15 and the Mahomies",
           "player_name": "Anand VR",
           "event_total": 33,
           "total": 675,
           "is_you": true
+        },
+        {
+          "rank": 7,
+          "entry": 1992354,
+          "entry_name": "Tosin the Neto",
+          "player_name": "Anubhav Siddharth",
+          "event_total": 22,
+          "total": 675,
+          "is_you": false
         },
         {
           "rank": 9,
@@ -837,8 +837,8 @@
           "entry": 7744618,
           "entry_name": "Wengerball 2.0",
           "player_name": "Nitin Natrajan",
-          "event_total": 34,
-          "total": 622,
+          "event_total": 33,
+          "total": 621,
           "is_you": false
         },
         {
@@ -846,8 +846,8 @@
           "entry": 8491589,
           "entry_name": "How Dalot can you go",
           "player_name": "muthu elango",
-          "event_total": 33,
-          "total": 618,
+          "event_total": 32,
+          "total": 617,
           "is_you": false
         },
         {
@@ -855,8 +855,8 @@
           "entry": 5097053,
           "entry_name": "The Sage Returns",
           "player_name": "Teja Kethineni",
-          "event_total": 36,
-          "total": 618,
+          "event_total": 35,
+          "total": 617,
           "is_you": false
         },
         {
@@ -900,7 +900,7 @@
     {
       "id": 431163,
       "name": "NBC Sports League",
-      "entry_rank": 31494,
+      "entry_rank": 31387,
       "entry_last_rank": 37213,
       "league_type": "s",
       "standings": null
@@ -950,21 +950,21 @@
         },
         {
           "rank": 5,
-          "entry": 2521217,
-          "entry_name": "15 and the Mahomies",
-          "player_name": "Anand VR",
-          "event_total": 33,
-          "total": 675,
-          "is_you": true
-        },
-        {
-          "rank": 5,
           "entry": 1992354,
           "entry_name": "Tosin the Neto",
           "player_name": "Anubhav Siddharth",
           "event_total": 22,
           "total": 675,
           "is_you": false
+        },
+        {
+          "rank": 5,
+          "entry": 2521217,
+          "entry_name": "15 and the Mahomies",
+          "player_name": "Anand VR",
+          "event_total": 33,
+          "total": 675,
+          "is_you": true
         },
         {
           "rank": 7,
@@ -1034,7 +1034,7 @@
     {
       "id": 2430021,
       "name": "Second Chance",
-      "entry_rank": 684727,
+      "entry_rank": 679930,
       "entry_last_rank": 918324,
       "league_type": "s",
       "standings": null
