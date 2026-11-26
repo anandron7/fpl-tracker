@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-25T19:13:09.201433+00:00",
+  "updated_at_utc": "2026-11-26T03:32:02.457494+00:00",
   "team_id": 2521217,
   "team_name": "15 and the Mahomies",
   "manager": {
@@ -8,7 +8,7 @@
   },
   "overall": {
     "points": 681,
-    "rank": 1025424,
+    "rank": 1025423,
     "event_points": 39,
     "event_rank": 3415311
   },
@@ -36,7 +36,7 @@
       "name": "Raya",
       "club": "ARS",
       "position": "GK",
-      "price": 6.3,
+      "price": 6.2,
       "squad_position": 1,
       "captain": false,
       "vice_captain": false,
@@ -46,7 +46,7 @@
       "chance_of_playing_next_round": 50,
       "season_points": 61,
       "form": "4.0",
-      "selected_by_percent": "45.3"
+      "selected_by_percent": "45.1"
     },
     {
       "player_id": 8,
@@ -63,7 +63,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 58,
       "form": "4.3",
-      "selected_by_percent": "48.2"
+      "selected_by_percent": "48.1"
     },
     {
       "player_id": 566,
@@ -114,7 +114,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 76,
       "form": "5.3",
-      "selected_by_percent": "50.2"
+      "selected_by_percent": "50.3"
     },
     {
       "player_id": 40,
@@ -148,7 +148,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 47,
       "form": "1.3",
-      "selected_by_percent": "17.4"
+      "selected_by_percent": "17.3"
     },
     {
       "player_id": 154,
@@ -165,7 +165,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 49,
       "form": "4.0",
-      "selected_by_percent": "27.2"
+      "selected_by_percent": "27.1"
     },
     {
       "player_id": 124,
@@ -199,7 +199,7 @@
       "chance_of_playing_next_round": 100,
       "season_points": 72,
       "form": "2.0",
-      "selected_by_percent": "77.4"
+      "selected_by_percent": "77.2"
     },
     {
       "player_id": 79,
@@ -250,7 +250,7 @@
       "chance_of_playing_next_round": null,
       "season_points": 48,
       "form": "1.7",
-      "selected_by_percent": "8.7"
+      "selected_by_percent": "8.6"
     },
     {
       "player_id": 286,
@@ -634,7 +634,7 @@
     {
       "id": 16,
       "name": "Man Utd",
-      "entry_rank": 176465,
+      "entry_rank": 176466,
       "entry_last_rank": 191316,
       "league_type": "s",
       "standings": null
@@ -650,7 +650,7 @@
     {
       "id": 276,
       "name": "Gameweek 1",
-      "entry_rank": 1025002,
+      "entry_rank": 1025001,
       "entry_last_rank": 1100135,
       "league_type": "s",
       "standings": null
@@ -658,7 +658,7 @@
     {
       "id": 314,
       "name": "Overall",
-      "entry_rank": 1025424,
+      "entry_rank": 1025423,
       "entry_last_rank": 1100594,
       "league_type": "s",
       "standings": null
